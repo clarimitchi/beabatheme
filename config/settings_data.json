@@ -6682,7 +6682,7 @@
           "placement_fullwidth": true,
           "visible_on_mobile": true,
           "margin_top": 25,
-          "paddings": 2,
+          "paddings": 0,
           "heading": "",
           "heading_color": "",
           "heading_bd_color": "",
