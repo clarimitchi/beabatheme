@@ -1,14 +1,14 @@
 {
   "current": {
     "revolution_slider_used": true,
-    "main_logo": "shopify:\/\/shop_images\/logo_Red_Castle_RED_193C_-_original.png",
+    "main_logo": "shopify:\/\/shop_images\/New_logo_BEABA_Pantone_8261C.png",
     "logo_max_width": "250",
-    "mobile_logo_max_width": "300",
+    "mobile_logo_max_width": "",
     "favicon": true,
-    "iphone_icon": false,
+    "iphone_icon": true,
     "iphone_icon_retina": true,
-    "ipad_icon": false,
-    "ipad_icon_retina": false,
+    "ipad_icon": true,
+    "ipad_icon_retina": true,
     "responsive_design": true,
     "page_width": "1",
     "max_width": "",
@@ -161,10 +161,10 @@
     "top_cart_hvr_price_c": "",
     "top_cart_hvr_bl_c": "",
     "menu_noborder": true,
-    "menu_bc": "#c00042",
+    "menu_bc": "#7771b1",
     "menu_mainlink_c": "#ffffff",
     "menu_mainlink_bl_c": "#ffffff",
-    "menu_mainlinkhvr_c": "#c00042",
+    "menu_mainlinkhvr_c": "#7771b1",
     "menu_mainlink_blhvr_c": "#ffffff",
     "menu_lpr_c": "",
     "menu_lpr_bc": "",
@@ -185,8 +185,8 @@
     "menu_ver_cont_blhvr_c": "",
     "menu_sub_bc": "",
     "menu_sub_c": "",
-    "menu_sub_link_c": "",
-    "menu_sub_linkhvr_c": "",
+    "menu_sub_link_c": "#7a7a7a",
+    "menu_sub_linkhvr_c": "#7a7a7a",
     "menu_sub_bl_c": "",
     "menu_sub_blhvr_c": "",
     "menu_sub_mainlink_in_visibletype_c": "",
@@ -261,7 +261,7 @@
     "breadcrumb_border_bottom_width": "1px",
     "breadcrumb_border_bottom_color": "#e5e5e5",
     "breadcrumb_border_top_color": "#ffffff",
-    "breadcrumb_heading_color": "#ffffff",
+    "breadcrumb_heading_color": "#333333",
     "breadcrumb_heading_border_bottom_color": "#7771b1",
     "breadcrumb_links_color": "#ffffff",
     "breadcrumb_links_hover_color": "#7771b1",
@@ -322,11 +322,11 @@
     "product_price_old_text2": "#cccccc",
     "product_price_old_text": "#232323",
     "product_hover_border_color": "#7771b1",
-    "product_button_background": "#c00042",
-    "product_button_border": "#c00042",
+    "product_button_background": "#7771b1",
+    "product_button_border": "#7771b1",
     "product_button_color": "#ffffff",
-    "product_button_hover_background": "#c00042",
-    "product_button_hover_border": "#c00042",
+    "product_button_hover_background": "#7771b1",
+    "product_button_hover_border": "#7771b1",
     "product_button_hover_color": "#ffffff",
     "sale_color_text": "#ffffff",
     "sale_border_color": "rgba(0,0,0,0)",
@@ -336,7 +336,7 @@
     "new_background_color": "#7771b1",
     "customfooter_text_color": "#595959",
     "customfooter_links_color": "#333333",
-    "customfooter_links_hover_color": "#cbd90e",
+    "customfooter_links_hover_color": "#6a8e91",
     "customfooter_background_color": "#7771b1",
     "customfooter_border_color": "#7771b1",
     "footer_text_color": "#ffffff",
@@ -349,7 +349,7 @@
     "footer_button_text_color": "#333333",
     "footer_button_background_color": "#ffffff",
     "footer_button_hover_text_color": "#ffffff",
-    "footer_button_hover_background_color": "#cbd90e",
+    "footer_button_hover_background_color": "#6a8e91",
     "footer_social_color": "",
     "footer_social_hover_color": "",
     "footer_newsletter_input_color": "",
@@ -421,8 +421,8 @@
     "header_always_show_vermenu_cat": false,
     "icon_cart": "",
     "icon_cart_hover": "",
-    "product_mobile_variant": "0",
-    "hder_m_reduce": false,
+    "product_mobile_variant": "1",
+    "hder_m_reduce": true,
     "hder_m_search_hide": false,
     "hder_m_currency_hide": false,
     "hder_m_account_hide": false,
@@ -452,7 +452,7 @@
     "hn_desktop": true,
     "hn_mobile": true,
     "hn_once": false,
-    "hn_emphasized_text": "<a href=\"http:\/\/beaba.com.au\/\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0374\/6198\/3372\/files\/beaba_new_logo2.png?v=1628132652\" alt=\"Beaba\"><\/a>",
+    "hn_emphasized_text": "<a href=\"http:\/\/cocoonababy.com.au\/\" class=\"emphasized-logo\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/t\/3\/assets\/logo_Red_Castle_RED_193C_-_original.png?v=1586175859\" width=\"200px;\" alt=\"Red Castle\"><\/a>",
     "hn_text": "",
     "hn_cta": "",
     "hn_cta_url": "",
@@ -474,20 +474,20 @@
     "footer_section_column_layout": "",
     "footer_section_bottom_layout": "12",
     "ctemplate_type": "",
-    "shop_pagination": "2",
-    "collection_promo_banner": true,
-    "collection_promo_brand": true,
+    "shop_pagination": "",
+    "collection_promo_banner": false,
+    "collection_promo_brand": false,
     "grid_view": 4,
     "collection_background": "1",
     "collection_product_per_pow2": "3",
-    "collection_product_size": "medium",
+    "collection_product_size": "custom",
     "collection_product_img_width": "",
     "collection_product_img_height": "",
     "collection_list_grid": "1",
     "collection_limit": "12",
     "sb_collection_placement": "left",
     "sb_collection_mobile": false,
-    "sb_collection_all": false,
+    "sb_collection_all": true,
     "sb_collection_all_heading": "Filter By",
     "sb_collection_all_linklist": "",
     "sb_collection_product": false,
@@ -505,11 +505,11 @@
     "filtering_1": true,
     "multi_choice_1": true,
     "filtering_heading_1": "Color",
-    "filtering_filters_1": "beige,\nblack,\nblue,\ngrey,\nwhite,\ngreen,\npink,\nred,\nsilver,\nyellow",
-    "filtering_2": true,
-    "multi_choice_2": true,
-    "filtering_heading_2": "Thickness\/ Tog",
-    "filtering_filters_2": "0.5,\n2.0,",
+    "filtering_filters_1": "beige,\nblack,\nblue,\ngray,\ngreen,\npink,\nred,\nsilver,\nyellow,\nplum,\ngrey,\npurple,\nwhite,",
+    "filtering_2": false,
+    "multi_choice_2": false,
+    "filtering_heading_2": "Size",
+    "filtering_filters_2": "30,\r\n35,\r\n40,\r\n45,\r\n50",
     "filtering_3": true,
     "multi_choice_3": true,
     "filtering_heading_3": "Price",
@@ -542,18 +542,18 @@
     "multi_choice_10": false,
     "filtering_heading_10": "",
     "filtering_filters_10": "",
-    "product_item_per_row": "2",
+    "product_item_per_row": "1",
     "product_item_type": "advanced",
     "quickshop_type": "advanced",
     "product_item_advanced_thumb_type": "dots",
     "quickshop_image": 3,
-    "image_layout": "1",
+    "image_layout": "",
     "image_layout_crop": true,
     "product_sale_badge": "0",
     "product_new_badge": true,
     "sticky_cart": "",
-    "product_hide_breadcrumb": true,
-    "product_info_status": true,
+    "product_hide_breadcrumb": false,
+    "product_info_status": false,
     "product_info_sku": true,
     "product_info_brand": false,
     "product_breadcrumb": "0",
@@ -573,7 +573,7 @@
     "variant_image_grouped": true,
     "product_swatch_color_item": true,
     "product_swatch_color": true,
-    "product_swatch_color_advanced": true,
+    "product_swatch_color_advanced": false,
     "product_swatch_size": true,
     "dynamic_checkout": false,
     "product_size_chart": false,
@@ -587,8 +587,8 @@
     "ptabs_hor_show": false,
     "ptabs_vert_show": false,
     "ptabs_hover_border_show": false,
-    "product_tab_title_1": "Size Chart",
-    "product_tab_content_1": "",
+    "product_tab_title_1": "FAQ",
+    "product_tab_content_1": "faqs",
     "product_tab_title_2": "Tab Title 2",
     "product_tab_content_2": "",
     "product_tab_title_3": "Custom Tab",
@@ -601,9 +601,9 @@
     "product_bottom_html": false,
     "product_bottom_html_content": "",
     "product_bottom_related": true,
-    "product_bottom_related_heading": "Related Products",
+    "product_bottom_related_heading": "YOU MAY ALSO LIKE",
     "product_bottom_related_limit": "5",
-    "product_bottom_viewed": true,
+    "product_bottom_viewed": false,
     "product_bottom_viewed_heading": "Viewed Products",
     "product_bottom_viewed_limit": "5",
     "product_bottom_upsell": true,
@@ -612,7 +612,7 @@
     "product_bottom_upsell_limit": "12",
     "cart_terms_enable": false,
     "cart_terms_page": "",
-    "shopping_cart_type": "sidebar",
+    "shopping_cart_type": "direct",
     "cart_sidebar_text": "",
     "cart_sidebar_image": "",
     "shipping_calculator": "yes",
@@ -640,7 +640,7 @@
     "sb_blog_html_heading": "",
     "sb_blog_html_content": "",
     "ggm_api_key": "AIzaSyD3IQEms0glYW-EDAi2WBjrjl0-DffazEc",
-    "contact_map_address": "110-3575 Saint-Laurent Blvd. \r\nMontréal, QC, Canada  H2X 2T7",
+    "contact_map_address": "6\/36 O’Riordan Street\nAlexandria, NSW, 2015",
     "contact_map_height": "500",
     "contact_logo": true,
     "contact_address": "PO Box 16122 Collins Street Victoria 8007 Australia",
@@ -648,25 +648,25 @@
     "contact_email": "info@company.com",
     "contact_social": true,
     "social_facebook_iframe": "",
-    "social_twitter_username": "Shopify",
-    "social_twitter_height": "250",
+    "social_twitter_username": "",
+    "social_twitter_height": "",
     "social_instagram_layout": "modern",
-    "social_instagram_token": "1212301594.1677ed0.4d1a7e036d9945bd9a964afdc8136141",
-    "social_instagram_username": "beaba",
+    "social_instagram_token": "",
+    "social_instagram_username": "",
     "social_instagram_limit": "12",
     "social_widget_position": "right",
     "social_facebook": false,
     "social_twitter": false,
     "social_instagram": false,
     "scroll_top": false,
-    "social_icon_facebook": "https:\/\/www.facebook.com\/CocoonababyAustralia\/?ref=bookmarks",
+    "social_icon_facebook": "https:\/\/www.facebook.com\/BeabaAustralia\/?ref=bookmarks",
     "social_icon_twitter": "",
     "social_icon_pinterest": "",
     "social_icon_google-plus": "",
     "social_icon_youtube-play": "#",
     "social_icon_vimeo": "",
     "social_icon_flickr": "",
-    "social_icon_instagram": "https:\/\/www.instagram.com\/cocoonababy_au\/",
+    "social_icon_instagram": "https:\/\/www.instagram.com\/beaba_au\/",
     "social_icon_tumblr": "",
     "social_icon_behance": "",
     "social_icon_github": "",
@@ -693,13 +693,13 @@
     "popup_mailchimp_sb": true,
     "popup_mailchimp_style": "style-bright",
     "popup_mailchimp_width": "750",
-    "popup_mailchimp_action": "\/\/roartheme.us3.list-manage.com\/subscribe\/post?u=b0a129d3ef58da6fad5da1f62&amp;id=5903baced9",
+    "popup_mailchimp_action": "",
     "popup_mailchimp_expire": "0",
     "popup_mailchimp_period": "1",
     "popup_mailchimp_delay": "200",
     "popup_mailchimp_close": "",
     "popup_mailchimp_bgc": "#6ec4eb",
-    "popup_mailchimp_bg": true,
+    "popup_mailchimp_bg": false,
     "age_verification": "",
     "enter_date_of_birth": "1",
     "age_check": 18,
@@ -721,7 +721,7 @@
     "advanced_top_bar": "",
     "advanced_myaccount": "3",
     "advanced_cart_block": "11",
-    "advanced_category_box": "2",
+    "advanced_category_box": "3",
     "advanced_megamenu_label": "",
     "advanced_search": "2",
     "advanced_megamenu_type": "7",
@@ -742,8 +742,8 @@
     "advanced_sale_new": "2",
     "slider_overflow": false,
     "checkout_header_image": "",
-    "checkout_logo_image": "",
-    "checkout_logo_position": "left",
+    "checkout_logo_image": "shopify:\/\/shop_images\/New_logo_BEABA_Pantone_8261C.png",
+    "checkout_logo_position": "center",
     "checkout_logo_size": "medium",
     "checkout_body_background_image": "",
     "checkout_body_background_color": "#fff",
@@ -752,9 +752,11 @@
     "checkout_sidebar_background_color": "#fafafa",
     "checkout_heading_font": "Helvetica Neue",
     "checkout_body_font": "Helvetica Neue",
-    "checkout_accent_color": "#2a9dcc",
+    "checkout_accent_color": "#7771b1",
     "checkout_button_color": "#2a9dcc",
     "checkout_error_color": "#ff6d6d",
+    "bar_use": false,
+    "top_bar_content": "<div style=\"padding:10px 0px;background:#7771b1;color:#fff;text-align:center;\">THE BABYCOOK:\n30 YEARS OF\nINNOVATION<\/div>",
     "social_facebook_url": "https:\/\/www.facebook.com\/roartheme",
     "social_facebook_hide_cover": false,
     "social_facebook_show_faces": true,
@@ -3459,7 +3461,7 @@
             "type": "html",
             "settings": {
               "footer_html_heading": "",
-              "footer_html_custom": "<style>\n.footer-menu{\n    display: flex;\n    justify-content: center;\n}\n.footer-menu ul{\n  list-style-type: none;\n  margin: 0;\n  padding: 0;\n  overflow: hidden;\n  background-color: #bf0d3e;\ncolor:#fff;\n}\n\n.footer-menu li {\n  float: left;\n}\n\n.footer-menu li a {\n  display: inline-block;\n  color: white;\n  text-align: center;\n  padding: 14px 16px;\n  text-decoration: none;\n}\n\n.footer-menu li a:hover {\n  background-color: #bf0d3e;\n}\n.custom-footer .pattern{\nbackground-color: #bf0d3e;\n}\n.custom-footer .pattern a{\ncolor: #fff;\nfont-size:15px;\n}\n.custom-footer .pattern a:hover{\ncolor: #fff;\n}\n.footer .pattern{\nbackground-color: #bf0d3e;\ncolor: #fff;\n.social_icon_wrapper footer-accordion{\ncolor:#fff;\n}\n<\/style>\n\n\n<div class=\"footer-menu\">\n<ul>\n              \n              <li> \n                <a href=\"https:\/\/cocoonababy1.myshopify.com\/pages\/delivery-return\">\n                  Delivery & Returns<\/a>\n              <\/li>\n              \n              <li> \n                \n              <\/li>\n              \n              <li> \n                <a href=\"https:\/\/cocoonababy.com.au\/pages\/faq\">\n                  FAQS<\/a>\n              <\/li>\n              \n              <li> \n                \n              \n              <\/li>\n<li> \n                <a href=\"https:\/\/cocoonababy.com.au\/pages\/contact-us\">Contact Us<\/a>\n              <\/li>\n              \n              <li> \n                <a href=\"http:\/\/www.bloomandgrow.com.au\/\">\n                  Become a Retailer<\/a>\n              <\/li>\n              \n              <li> \n                <a href=\"https:\/\/cocoonababy.com.au\/pages\/terms-conditions\">\n                  T&CS<\/a>\n              <\/li>\n              \n              <li> \n                <a href=\"https:\/\/cocoonababy.com.au\/pages\/privacy-policy\">\n                  Privacy Policy<\/a>\n              <\/li>\n              \n              <li> \n <a href=\"https:\/\/cocoonababy.com.au\/pages\/conditions-of-sale\">\n                  Conditions of Sale<\/a>\n              <\/li>\n              \n              <\/ul>\n\n<\/div>"
+              "footer_html_custom": "<style>\n.footer-menu{\n    display: flex;\n    justify-content: center;\n}\n.footer-menu ul{\n  list-style-type: none;\n  margin: 0;\n  padding: 0;\n  overflow: hidden;\n  background-color: #7771b1;\ncolor:#fff;\n}\n\n.footer-menu li {\n  float: left;\n}\n\n.footer-menu li a {\n  display: inline-block;\n  color: white;\n  text-align: center;\n  padding: 14px 16px;\n  text-decoration: none;\n}\n\n.footer-menu li a:hover {\n  background-color: #7771B1;\n}\n.custom-footer .pattern{\nbackground-color: #7771B1;\n}\n.custom-footer .pattern a{\ncolor: #fff;\nfont-size:15px;\n}\n.custom-footer .pattern a:hover{\ncolor: #fff;\n}\n.footer .pattern{\nbackground-color: #7771b1;\ncolor: #fff;\n.social_icon_wrapper footer-accordion{\ncolor:#fff;\n}\n<\/style>\n\n\n<div class=\"footer-menu\">\n<ul>\n              \n              <li> \n                <a href=\"https:\/\/beaba-australia-1.myshopify.com\/pages\/delivery-return\">\n                  Delivery & Returns<\/a>\n              <\/li>             \n              <li> \n                <a href=\"https:\/\/beaba-australia-1.myshopify.com\/pages\/faqs\">\n                  FAQS<\/a>\n              <\/li>\n              \n              <li> \n                <a href=\"https:\/\/beaba.com.au\/pages\/warranty\">\n                  Warranty & Manuals <\/a>\n              <\/li>\n              \n              <li> \n                <a href=\"https:\/\/beaba-australia-1.myshopify.com\/pages\/contact-us\">Contact Us<\/a>\n              <\/li>\n              \n              <li> \n                <a href=\"http:\/\/www.bloomandgrow.com.au\/\">\n                  Become a Retailer<\/a>\n              <\/li>\n              \n              <li> \n                <a href=\"https:\/\/beaba-australia-1.myshopify.com\/pages\/t-c\">\n                  T&CS<\/a>\n              <\/li>\n              \n              <li> \n                <a href=\"\/pages\/privacy-policy\">\n                  Privacy Policy<\/a>\n              <\/li>\n              \n              <li> \n <a href=\"https:\/\/beaba-australia-1.myshopify.com\/pages\/conditions-of-sale\">\n                  Conditions of Sale<\/a>\n              <\/li>\n              \n              <\/ul>\n\n<\/div>"
             }
           },
           "1583352501769": {
@@ -3473,7 +3475,7 @@
             "type": "html",
             "settings": {
               "footer_html_heading": "",
-              "footer_html_custom": "<div class=\"logos-2\">\n<div class=\"item item-left\">\n<div class=\"footer_images\">\n             <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0374\/6198\/3372\/files\/red-castle-logo-15525731285.jpg?v=1585534133\" alt=\"\">\n         \n\n <div class=\"footer-news\" style=\"position: relative; float :right;  \">\n   \n<!-- <input type=\"text\" placeholder=\"Email address\" name=\"mail\" required=\"true\">\n<input class=\"button\" style=\"background-color: #cbd90e\" type=\"submit\" value=\"Subscribe\">-->\n\n\n  <\/div>\n\n\n      <\/div>\n<\/div>\n\n<\/div>"
+              "footer_html_custom": "<div class=\"logos-2\">\n<div class=\"item item-left\">\n<div class=\"footer_images\">\n             <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/New-logo-BEABA_White_80x80_crop_center@2x.png?v=1583355110\" alt=\"\">\n         \n\n <div class=\"footer-news\" style=\"position: relative; float :right;  \">\n   \n<!-- <input type=\"text\" placeholder=\"Email address\" name=\"mail\" required=\"true\">\n<input class=\"button\" style=\"background-color: #6a8e91\" type=\"submit\" value=\"Subscribe\">-->\n\n\n  <\/div>\n\n\n      <\/div>\n<\/div>\n\n<\/div>"
             }
           }
         },
@@ -3500,7 +3502,7 @@
             "settings": {
               "footer_about_heading": "",
               "footer_about_logo": true,
-              "footer_about": "",
+              "footer_about": "shopify:\/\/shop_images\/beaba-v17-logo-15435837421.jpg",
               "footer_about_address": "",
               "footer_about_phone": "",
               "footer_about_email": ""
@@ -3522,7 +3524,7 @@
             "settings": {
               "footer_about_heading": "",
               "footer_about_logo": true,
-              "footer_about": "",
+              "footer_about": "shopify:\/\/shop_images\/ezgif.com-webp-to-png_2.png",
               "footer_about_address": "",
               "footer_about_phone": "",
               "footer_about_email": ""
@@ -3570,7 +3572,7 @@
         "type": "footer-copyright",
         "settings": {
           "copyright_align": "right",
-          "copyright_custom": "<p style=\"font-size:15px;\">Distributed by <br>Bloom and Grow Australia Pty Ltd<\/p>\nCopyright © 2021 Cocoonababy. All Rights Reserved.",
+          "copyright_custom": "<p style=\"font-size:15px;\">Distributed by <br>Bloom and Grow Australia Pty Ltd<\/p>\nCopyright © 2020 Beaba. All Rights Reserved.",
           "footer_social_hook": "cp_right",
           "footer_social_heading": "",
           "footer_social_size": "26"
@@ -3579,16 +3581,16 @@
       "header-slideshow": {
         "type": "header-slideshow",
         "blocks": {
-          "1586940022186": {
+          "0201731e-38e8-4c7d-bd75-fcfcf97b5dc2": {
             "type": "image",
             "settings": {
               "slide_img_use": true,
-              "slide_img": "shopify:\/\/shop_images\/Red_Castle_Banners_1-03.png",
+              "slide_img": "shopify:\/\/shop_images\/Beaba_Thermometer_Web_banner_Sale.jpg",
               "slide_vid": "",
               "slide_head": "",
               "slide_capt": "",
-              "slide_cta": "",
-              "slide_url": "shopify:\/\/collections\/big-flopsy",
+              "slide_cta": "Button",
+              "slide_url": "shopify:\/\/products\/beaba-infrared-thermometer",
               "slide_swap": true,
               "slide_cta_btw": false,
               "slide_cta_undrline": false,
@@ -3612,16 +3614,16 @@
               "slide_sticker_enabled": false
             }
           },
-          "1600836801600": {
+          "8d364103-2dc4-469b-b33b-f55c98711255": {
             "type": "image",
             "settings": {
               "slide_img_use": true,
-              "slide_img": "shopify:\/\/shop_images\/Red_Castle_Banners_Vicky_Coord.jpg",
+              "slide_img": "shopify:\/\/shop_images\/beaba_high-chair_banner.jpg",
               "slide_vid": "",
               "slide_head": "",
               "slide_capt": "",
-              "slide_cta": "Button",
-              "slide_url": "https:\/\/cocoonababy.com.au\/collections\/cocoonababy\/products\/cocoonababy-nest-vicky-coord",
+              "slide_cta": "",
+              "slide_url": "shopify:\/\/collections\/highchair",
               "slide_swap": true,
               "slide_cta_btw": false,
               "slide_cta_undrline": false,
@@ -3644,11 +3646,113 @@
               "slide_padding_vert": 0,
               "slide_sticker_enabled": false
             }
+          },
+          "d40bbfec-5291-417f-ba0a-08ec48448ddb": {
+            "type": "image",
+            "settings": {
+              "slide_img_use": true,
+              "slide_img": "shopify:\/\/shop_images\/banniere-Milkeo-1480x720-GB.jpg",
+              "slide_vid": "",
+              "slide_head": "",
+              "slide_capt": "",
+              "slide_cta": "",
+              "slide_url": "shopify:\/\/products\/milkeo-automatic-bottle-maker",
+              "slide_swap": true,
+              "slide_cta_btw": false,
+              "slide_cta_undrline": false,
+              "slide_head_size": 40,
+              "slide_head_weight": 600,
+              "slide_head_color": "#000000",
+              "slide_head_bodyfont": false,
+              "slide_head_space": false,
+              "slide_head_decor": "0",
+              "slide_capt_size": 20,
+              "slide_capt_weight": 300,
+              "slide_capt_color": "#000000",
+              "slide_capt_decor": "0",
+              "slide_align_hori": "center",
+              "slide_align_vert": "middle",
+              "slide_align_content": "center",
+              "slide_padding_from_hori": "right",
+              "slide_padding_hori": 0,
+              "slide_padding_from_vert": "top",
+              "slide_padding_vert": 0,
+              "slide_sticker_enabled": false
+            }
+          },
+          "2d826193-cd81-4612-bb9c-fafe65455e3a": {
+            "type": "image",
+            "settings": {
+              "slide_img_use": true,
+              "slide_img": "shopify:\/\/shop_images\/Baby_Milk_Second_Banner.jpg",
+              "slide_vid": "",
+              "slide_head": "",
+              "slide_capt": "",
+              "slide_cta": "",
+              "slide_url": "shopify:\/\/products\/beaba-baby-milk-bottle-warmer",
+              "slide_swap": true,
+              "slide_cta_btw": false,
+              "slide_cta_undrline": false,
+              "slide_head_size": 40,
+              "slide_head_weight": 600,
+              "slide_head_color": "#000000",
+              "slide_head_bodyfont": false,
+              "slide_head_space": false,
+              "slide_head_decor": "0",
+              "slide_capt_size": 20,
+              "slide_capt_weight": 300,
+              "slide_capt_color": "#000000",
+              "slide_capt_decor": "0",
+              "slide_align_hori": "center",
+              "slide_align_vert": "middle",
+              "slide_align_content": "center",
+              "slide_padding_from_hori": "right",
+              "slide_padding_hori": 0,
+              "slide_padding_from_vert": "top",
+              "slide_padding_vert": 0,
+              "slide_sticker_enabled": false
+            }
+          },
+          "1527251798480": {
+            "type": "image",
+            "settings": {
+              "slide_img_use": true,
+              "slide_img": "shopify:\/\/shop_images\/App_Promotion_Banner_1.png",
+              "slide_vid": "",
+              "slide_head": "",
+              "slide_capt": "",
+              "slide_cta": "",
+              "slide_url": "shopify:\/\/collections\/all",
+              "slide_swap": false,
+              "slide_cta_btw": false,
+              "slide_cta_undrline": false,
+              "slide_head_size": 34,
+              "slide_head_weight": 500,
+              "slide_head_color": "#1349b2",
+              "slide_head_bodyfont": false,
+              "slide_head_space": false,
+              "slide_head_decor": "0",
+              "slide_capt_size": 68,
+              "slide_capt_weight": 600,
+              "slide_capt_color": "#000000",
+              "slide_capt_decor": "0",
+              "slide_align_hori": "center",
+              "slide_align_vert": "middle",
+              "slide_align_content": "center",
+              "slide_padding_from_hori": "right",
+              "slide_padding_hori": 0,
+              "slide_padding_from_vert": "top",
+              "slide_padding_vert": 220,
+              "slide_sticker_enabled": false
+            }
           }
         },
         "block_order": [
-          "1586940022186",
-          "1600836801600"
+          "0201731e-38e8-4c7d-bd75-fcfcf97b5dc2",
+          "8d364103-2dc4-469b-b33b-f55c98711255",
+          "d40bbfec-5291-417f-ba0a-08ec48448ddb",
+          "2d826193-cd81-4612-bb9c-fafe65455e3a",
+          "1527251798480"
         ],
         "settings": {
           "header_slideshow_enabled": true,
@@ -3658,9 +3762,9 @@
           "slider_interval": "7000",
           "slider_align_top": false,
           "slider_margintop": "",
-          "slider_scale": false,
+          "slider_scale": true,
           "slider_height": "",
-          "slider_auto_height": false,
+          "slider_auto_height": true,
           "slider_mask": false,
           "slider_mask_color": "#000000",
           "slider_mask_opacity": 0.2,
@@ -3685,8 +3789,8 @@
         "type": "mobile-nav",
         "settings": {
           "linklist": "main-menu",
-          "bg_color": "",
-          "content_color": "",
+          "bg_color": "#7771b1",
+          "content_color": "#ffffff",
           "border_color": ""
         }
       },
@@ -3719,7 +3823,7 @@
             "type": "box",
             "settings": {
               "column_belong": "1",
-              "acm_title": "<p id=\"name_adress\" class=\"contact_titre2\" style=\"color:#fff; font-size:35px\"> Cocoonababy Australia  <\/p>",
+              "acm_title": "<p id=\"name_address\" class=\"contact_titre2\" style=\"color:#fff; font-size:35px\"> BÉABA Australia  <\/p>",
               "acm_text": ""
             }
           },
@@ -3728,7 +3832,7 @@
             "settings": {
               "column_belong": "1",
               "ac_mobile": true,
-              "acm_text": "<div class=\"col-md-12 dynamic-adress\" style=\"color:#fff; font-size:18px\">\n                <div class=\"col-xs-6 col-md-5\" id=\"beabaContactCountryAddress\" style=\"display: block;\">\n\n                    <p class=\"list_title_info\">Address.<\/p>\n                    <div class=\"contact_sep\"><\/div>\n                    <p class=\"list_description_info\">Bloom and Grow Australia Pty Ltd\n6\/36 O’Riordan Street\nAlexandria, NSW, 2015<\/p>\n                <\/div>\n\n                <div class=\"col-xs-6 col-md-3\" id=\"beabaContactCountryPhone\" style=\"display: block;\">\n                    <p class=\"list_title_info\">Tel.<\/p>\n                    <div class=\"contact_sep\"><\/div>\n                    <p class=\"list_description_info\">(02) 8069 8951<\/p>\n                <\/div>\n\n  \n                <div class=\"col-xs-6 col-md-3\" id=\"beabaContactCountryEmail\" style=\"display: block;\">\n                    <p class=\"list_title_info\">Email<\/p>\n                    <div class=\"contact_sep\"><\/div>\n                    <p class=\"list_description_info\">hello@cocoonababy.com.au<\/p>\n                <\/div>\n            <\/div>"
+              "acm_text": "<div class=\"col-md-12 dynamic-adress\" style=\"color:#fff; font-size:18px\">\n                <div class=\"col-xs-6 col-md-5\" id=\"beabaContactCountryAddress\" style=\"display: block;\">\n\n                    <p class=\"list_title_info\">Address.<\/p>\n                    <div class=\"contact_sep\"><\/div>\n                    <p class=\"list_description_info\">Bloom and Grow Australia Pty Ltd\n6\/36 O’Riordan Street\nAlexandria, NSW, 2015<\/p>\n                <\/div>\n\n                <div class=\"col-xs-6 col-md-3\" id=\"beabaContactCountryPhone\" style=\"display: block;\">\n                    <p class=\"list_title_info\">Tel.<\/p>\n                    <div class=\"contact_sep\"><\/div>\n                    <p class=\"list_description_info\">(02) 8069 8951<\/p>\n                <\/div>\n\n  \n                <div class=\"col-xs-6 col-md-3\" id=\"beabaContactCountryEmail\" style=\"display: block;\">\n                    <p class=\"list_title_info\">Email<\/p>\n                    <div class=\"contact_sep\"><\/div>\n                    <p class=\"list_description_info\">hello@beaba.com.au<\/p>\n                <\/div>\n            <\/div>"
             }
           }
         },
@@ -3748,7 +3852,7 @@
           "ag_padd_right": "0",
           "ag_padd_bottom": "20",
           "ag_padd_left": "0",
-          "ag_bgcolor": "#a2aaad",
+          "ag_bgcolor": "#b4abd6",
           "ag_bgimg_use": false,
           "ag_bg": "",
           "ag_bgtype": "1",
@@ -3851,7 +3955,7 @@
       "banner": {
         "type": "banner",
         "settings": {
-          "placement_fullwidth": false,
+          "placement_fullwidth": true,
           "visible_on_mobile": false,
           "margin_top": 0,
           "paddings": 0,
@@ -4072,8 +4176,8 @@
               "image_url": "shopify:\/\/collections\/all",
               "image_width": "3",
               "image_position": "none",
-              "collection": "latest",
-              "ptab_heading": "LATEST PRODUCTS",
+              "collection": "featured",
+              "ptab_heading": "BEST SELLERS",
               "ptab_img_width": "200",
               "ptab_img_height": "200",
               "ptab_rows": "1",
@@ -4092,7 +4196,7 @@
           "tab_style": "normal",
           "tab_border": "none",
           "arrow_position": "beside",
-          "heading_color": "#c00042",
+          "heading_color": "",
           "heading_active_color": "",
           "heading_active_border_color": "rgba(0,0,0,0)",
           "heading_fontsize": 21,
@@ -4101,7 +4205,6 @@
       },
       "1527309267479": {
         "type": "banner",
-        "disabled": true,
         "blocks": {
           "1527309330615": {
             "type": "promotion",
@@ -4112,9 +4215,9 @@
               "promotion_image_quality": "1920x",
               "promotion_height": 50,
               "promotion_mobile_height": 50,
-              "promotion_text": "Cocoona Warranty",
+              "promotion_text": "Beaba Warranty",
               "promotion_icon": "fa-truck",
-              "promotion_link": "",
+              "promotion_link": "https:\/\/beaba.com.au\/pages\/warranty",
               "promotion_color": "#333333",
               "promotion_text_size": 14,
               "promotion_icon_size": 20,
@@ -4146,7 +4249,7 @@
               "promotion_mobile_height": 50,
               "promotion_text": "100% Money Refund",
               "promotion_icon": "fa-refresh",
-              "promotion_link": "",
+              "promotion_link": "https:\/\/beaba.com.au\/pages\/delivery-return",
               "promotion_color": "#333333",
               "promotion_text_size": 14,
               "promotion_icon_size": 20,
@@ -4178,7 +4281,7 @@
               "promotion_mobile_height": 50,
               "promotion_text": "Fast & Reliable Support",
               "promotion_icon": "fa-life-ring",
-              "promotion_link": "",
+              "promotion_link": "https:\/\/beaba.com.au\/pages\/contact-us",
               "promotion_color": "#333333",
               "promotion_text_size": 14,
               "promotion_icon_size": 20,
@@ -4229,21 +4332,20 @@
       },
       "1527311177344": {
         "type": "products-tabs",
-        "disabled": true,
         "blocks": {
           "1527311177344-0": {
             "type": "ptab_collection",
             "settings": {
               "visible_on_mobile": true,
               "image_url": "",
-              "image_width": "12",
+              "image_width": "3",
               "image_position": "none",
-              "collection": "new-in",
+              "collection": "new-in-home-page",
               "ptab_heading": "NEW IN",
               "ptab_img_width": "263",
               "ptab_img_height": "263",
               "ptab_rows": "1",
-              "ptab_items_per_row": "3",
+              "ptab_items_per_row": "4",
               "ptab_carousel": true,
               "ptab_max": "16"
             }
@@ -4258,9 +4360,9 @@
           "tab_style": "normal",
           "tab_border": "none",
           "arrow_position": "beside",
-          "heading_color": "#c00042",
+          "heading_color": "",
           "heading_active_color": "",
-          "heading_active_border_color": "",
+          "heading_active_border_color": "#ffffff",
           "heading_fontsize": 21,
           "heading_fontweight": 500
         }
@@ -4278,6 +4380,7 @@
               "banner_shadow": false,
               "banner_tilt": false,
               "banner_rounded_edge": false,
+              "banner_image": "shopify:\/\/shop_images\/Image1.png",
               "banner_image_quality": "1000x",
               "banner_image_full_visible": false,
               "banner_image_full_visible_mobile": false,
@@ -4449,11 +4552,29 @@
       "header-menu1": {
         "type": "header-menu1",
         "blocks": {
+          "header-menu1-0": {
+            "type": "menu_parent",
+            "settings": {
+              "mi_text": "<p style=\"font-size:17px;\">Blog & Babycook Recipes<\/p>",
+              "mi_url": "shopify:\/\/blogs\/news",
+              "mi_class": "",
+              "mi_mobile": true,
+              "mi_pos_right": false,
+              "mi_icon_enabled": false,
+              "mmenu_label_text_color": "#191919",
+              "mmenu_label_bg_color": "#dfd4c6",
+              "mi_submenu_w": "900px",
+              "mi_submenu_padding": 30,
+              "mi_submenu_bg_c": "",
+              "mi_submenu_bg_pos": "top_left",
+              "mi_submenu_bg_repeat": "no-repeat"
+            }
+          },
           "header-menu1-3": {
             "type": "menu_parent",
             "settings": {
-              "mi_text": "<p style=\"font-size:17px;\">About Red Castle<\/p>",
-              "mi_url": "shopify:\/\/pages\/about-us",
+              "mi_text": "<p style=\"font-size:17px;\">The Beaba Brand<\/p>",
+              "mi_url": "shopify:\/\/collections\/all",
               "mi_class": "",
               "mi_mobile": true,
               "mi_pos_right": false,
@@ -4466,10 +4587,25 @@
               "mi_submenu_bg_pos": "top_right",
               "mi_submenu_bg_repeat": "no-repeat"
             }
+          },
+          "1586155939231": {
+            "type": "submenu_linklist",
+            "settings": {
+              "mi_ct_w": 25,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_links": "beaba-brand",
+              "mi_ct_links_col": "1",
+              "mi_ct_links_sub_visible": false,
+              "mi_ct_links_sub_col": "1"
+            }
           }
         },
         "block_order": [
-          "header-menu1-3"
+          "header-menu1-0",
+          "header-menu1-3",
+          "1586155939231"
         ],
         "settings": {
           "mmenu_use": true,
@@ -4494,11 +4630,11 @@
       "header-menu2": {
         "type": "header-menu2",
         "blocks": {
-          "1585037672847": {
+          "1527916048062": {
             "type": "menu_parent",
             "settings": {
-              "mi_text": "<p style=\"font-size:17px; text-align:center;\">New In<\/p>",
-              "mi_url": "shopify:\/\/collections\/latest",
+              "mi_text": "<p style=\"font-size:17px;\">New In<\/p>",
+              "mi_url": "shopify:\/\/collections\/new",
               "mi_class": "",
               "mi_mobile": true,
               "mi_pos_right": false,
@@ -4515,8 +4651,8 @@
           "1527841308174": {
             "type": "menu_parent",
             "settings": {
-              "mi_text": "<p style=\"font-size:17px; text-align:center;\">Cocoonababy & <br>Accessories<\/p>",
-              "mi_url": "shopify:\/\/collections\/accessories",
+              "mi_text": "<p style=\"font-size:17px;\">Babycook & <br>Accessories<\/p>",
+              "mi_url": "shopify:\/\/collections\/babycook",
               "mi_class": "",
               "mi_mobile": true,
               "mi_pos_right": false,
@@ -4540,13 +4676,13 @@
               "mi_ct_height": 150,
               "mi_ct_mobile_height": 100,
               "mi_ct_banner_bg_color": "#ef958d",
-              "mi_ct_banner_image": "shopify:\/\/shop_images\/cocoonababy.png",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/1_2.png",
               "mi_ct_banner_image_quality": "1920x",
-              "mi_ct_banner_head": "Cocoonababy >",
+              "mi_ct_banner_head": "Babycook Neo >",
               "mi_ct_banner_cap": "",
               "mi_ct_banner_linklist": "",
               "mi_ct_banner_cta": "",
-              "mi_ct_banner_link": "shopify:\/\/collections\/cocoonababy",
+              "mi_ct_banner_link": "shopify:\/\/collections\/neo-1",
               "mi_ct_banner_text_pos": "text-pos-center",
               "mi_ct_banner_text_vpos": "text-vpos-top",
               "mi_ct_banner_text_align": "text-align-center",
@@ -4572,6 +4708,48 @@
               "mi_ct_banner_cta_weight": 400
             }
           },
+          "297b095f-8784-4ecf-957b-a3f4e63496c2": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#d0d953",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Duo.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Baby Cook Duo >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/babycook-duo",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
           "1528097232427": {
             "type": "submenu_banner",
             "settings": {
@@ -4582,13 +4760,13 @@
               "mi_ct_height": 150,
               "mi_ct_mobile_height": 100,
               "mi_ct_banner_bg_color": "#ffc27a",
-              "mi_ct_banner_image": "shopify:\/\/shop_images\/drap-housse.png",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/V4_256x152_babycook-solo-white-silver.png",
               "mi_ct_banner_image_quality": "1920x",
-              "mi_ct_banner_head": "Fitted Sheet >",
+              "mi_ct_banner_head": "Babycook Solo >",
               "mi_ct_banner_cap": "",
               "mi_ct_banner_linklist": "",
               "mi_ct_banner_cta": "",
-              "mi_ct_banner_link": "shopify:\/\/collections\/fitted-sheet",
+              "mi_ct_banner_link": "shopify:\/\/collections\/babycook-solo",
               "mi_ct_banner_text_pos": "text-pos-center",
               "mi_ct_banner_text_vpos": "text-vpos-top",
               "mi_ct_banner_text_align": "text-align-center",
@@ -4614,7 +4792,7 @@
               "mi_ct_banner_cta_weight": 400
             }
           },
-          "1582061175308": {
+          "1585037864114": {
             "type": "submenu_banner",
             "settings": {
               "mi_ct_w": 20,
@@ -4624,13 +4802,13 @@
               "mi_ct_height": 150,
               "mi_ct_mobile_height": 100,
               "mi_ct_banner_bg_color": "#f65275",
-              "mi_ct_banner_image": "shopify:\/\/shop_images\/cocoonacover.png",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Portions.png",
               "mi_ct_banner_image_quality": "1920x",
-              "mi_ct_banner_head": "Cocoonacover >",
+              "mi_ct_banner_head": "Babycook Food <br>Storage >",
               "mi_ct_banner_cap": "",
               "mi_ct_banner_linklist": "",
               "mi_ct_banner_cta": "",
-              "mi_ct_banner_link": "https:\/\/cocoonababy1.myshopify.com\/collections\/cocoonacover",
+              "mi_ct_banner_link": "shopify:\/\/collections\/babycook-conservation-jars",
               "mi_ct_banner_text_pos": "text-pos-center",
               "mi_ct_banner_text_vpos": "text-vpos-top",
               "mi_ct_banner_text_align": "text-align-center",
@@ -4640,7 +4818,7 @@
               "mi_ct_banner_head_size": 15,
               "mi_ct_banner_head_weight": 200,
               "mi_ct_banner_head_shadow": false,
-              "mi_ct_banner_cap_color": "#ffffff",
+              "mi_ct_banner_cap_color": "#000000",
               "mi_ct_banner_cap_size": 14,
               "mi_ct_banner_cap_weight": 400,
               "mi_ct_banner_cap_shadow": false,
@@ -4656,7 +4834,7 @@
               "mi_ct_banner_cta_weight": 400
             }
           },
-          "1587455922988": {
+          "1585040537200": {
             "type": "submenu_banner",
             "settings": {
               "mi_ct_w": 20,
@@ -4665,14 +4843,14 @@
               "mi_submenu_bg_c": "#ffffff",
               "mi_ct_height": 150,
               "mi_ct_mobile_height": 100,
-              "mi_ct_banner_bg_color": "#d4c0f2",
-              "mi_ct_banner_image": "shopify:\/\/shop_images\/bande-ventrale.png",
+              "mi_ct_banner_bg_color": "#979793",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Accessoire-bbk.png",
               "mi_ct_banner_image_quality": "1920x",
-              "mi_ct_banner_head": "Accessories >",
+              "mi_ct_banner_head": "Babycook Accessories >",
               "mi_ct_banner_cap": "",
               "mi_ct_banner_linklist": "",
               "mi_ct_banner_cta": "",
-              "mi_ct_banner_link": "shopify:\/\/collections\/cocoonababy-and-accessories",
+              "mi_ct_banner_link": "shopify:\/\/collections\/babycook-accessories",
               "mi_ct_banner_text_pos": "text-pos-center",
               "mi_ct_banner_text_vpos": "text-vpos-top",
               "mi_ct_banner_text_align": "text-align-center",
@@ -4701,8 +4879,8 @@
           "1527841312561": {
             "type": "menu_parent",
             "settings": {
-              "mi_text": "<p style=\"font-size:17px;\">Nursing Pillows<\/p>",
-              "mi_url": "shopify:\/\/collections\/big-flopsy",
+              "mi_text": "<p style=\"font-size:17px;\"> Meal  Time<\/p>",
+              "mi_url": "shopify:\/\/collections\/babys-meal",
               "mi_class": "",
               "mi_mobile": true,
               "mi_pos_right": false,
@@ -4716,6 +4894,48 @@
               "mi_submenu_bg_repeat": "no-repeat"
             }
           },
+          "1588576510424": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#b9abc8",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/COB043078_2.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Milkeo >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "https:\/\/beaba.com.au\/collections\/milkeo-1",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
           "1585189104139": {
             "type": "submenu_banner",
             "settings": {
@@ -4725,10 +4945,220 @@
               "mi_submenu_bg_c": "#ffffff",
               "mi_ct_height": 150,
               "mi_ct_mobile_height": 100,
-              "mi_ct_banner_bg_color": "#a0b0a6",
-              "mi_ct_banner_image": "shopify:\/\/shop_images\/big-flopsy-chambray.png",
+              "mi_ct_banner_bg_color": "#ffc107",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/chaise.png",
               "mi_ct_banner_image_quality": "1920x",
-              "mi_ct_banner_head": "Big Flopsy >",
+              "mi_ct_banner_head": "High Chair >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/high-chair-accessories",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1585190804309": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#00bbdc",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Chauffe-bib.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Bottle Warmers >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/bottle-warmers-and-preparers",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1587362314123": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 25,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#979793",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/BIB.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Baby Bottle >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/baby-bottle",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1585986109403": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#d0d953",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Vaiselle.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Cutlery, Tableware & Bibs >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/cutlery-tableware-and-bibs",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#ffffff",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1587363972935": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#f8c4c0",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Beaba-Set-BabySqueez-2-in-1-SqueezPortion-Pink.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Reusable Food Pouches<br> & Formula Containers >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/reusable-food-pouches-formula-containers",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1597985497368": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#9b93ee",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Untitled_design_47.png",
+              "mi_ct_banner_image_quality": "1000x",
+              "mi_ct_banner_head": "Big Flopsy <br> by Red Castle >",
               "mi_ct_banner_cap": "",
               "mi_ct_banner_linklist": "",
               "mi_ct_banner_cta": "",
@@ -4758,11 +5188,113 @@
               "mi_ct_banner_cta_weight": 400
             }
           },
+          "1585984728778": {
+            "type": "menu_parent",
+            "settings": {
+              "mi_text": "<p style=\"font-size:17px;\">Outing<\/p>",
+              "mi_url": "shopify:\/\/collections\/all",
+              "mi_class": "",
+              "mi_mobile": true,
+              "mi_pos_right": false,
+              "mi_icon_enabled": false,
+              "mmenu_label_text_color": "#ffffff",
+              "mmenu_label_bg_color": "#ca302c",
+              "mi_submenu_w": "900px",
+              "mi_submenu_padding": 30,
+              "mi_submenu_bg_c": "",
+              "mi_submenu_bg_pos": "top_left",
+              "mi_submenu_bg_repeat": "no-repeat"
+            }
+          },
+          "1586768725296": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#7a7a7a",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Sac-a-langer.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Nappy Bags >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/nursery-bags",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1586766337209": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#ffc107",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Lunettes-de-soleil_256x256_c4fddc8e-df21-4489-8520-d28d1efcf887.png",
+              "mi_ct_banner_image_quality": "1000x",
+              "mi_ct_banner_head": "Sunglasses >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "https:\/\/beaba-australia-1.myshopify.com\/collections\/sunglasses",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#fafafa",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
           "1527915857970": {
             "type": "menu_parent",
             "settings": {
-              "mi_text": "<p style=\"font-size:17px;\">Bedtime<\/p>",
-              "mi_url": "#",
+              "mi_text": "<p style=\"font-size:17px;\">Seating<\/p>",
+              "mi_url": "shopify:\/\/collections\/comfort",
               "mi_class": "",
               "mi_mobile": true,
               "mi_pos_right": false,
@@ -4776,7 +5308,7 @@
               "mi_submenu_bg_repeat": "no-repeat"
             }
           },
-          "1585190804309": {
+          "1585984596170": {
             "type": "submenu_banner",
             "settings": {
               "mi_ct_w": 20,
@@ -4785,14 +5317,14 @@
               "mi_submenu_bg_c": "#ffffff",
               "mi_ct_height": 150,
               "mi_ct_mobile_height": 100,
-              "mi_ct_banner_bg_color": "#fdb0b0",
-              "mi_ct_banner_image": "shopify:\/\/shop_images\/gigoteuse.png",
-              "mi_ct_banner_image_quality": "500x",
-              "mi_ct_banner_head": "Baby Sleep Bags >",
+              "mi_ct_banner_bg_color": "#d0d953",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/chaise.png",
+              "mi_ct_banner_image_quality": "1000x",
+              "mi_ct_banner_head": "High Chair >",
               "mi_ct_banner_cap": "",
               "mi_ct_banner_linklist": "",
               "mi_ct_banner_cta": "",
-              "mi_ct_banner_link": "shopify:\/\/collections\/cocobag",
+              "mi_ct_banner_link": "shopify:\/\/collections\/high-chair-accessories",
               "mi_ct_banner_text_pos": "text-pos-center",
               "mi_ct_banner_text_vpos": "text-vpos-top",
               "mi_ct_banner_text_align": "text-align-center",
@@ -4802,7 +5334,7 @@
               "mi_ct_banner_head_size": 15,
               "mi_ct_banner_head_weight": 200,
               "mi_ct_banner_head_shadow": false,
-              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_color": "#ffffff",
               "mi_ct_banner_cap_size": 14,
               "mi_ct_banner_cap_weight": 400,
               "mi_ct_banner_cap_shadow": false,
@@ -4818,7 +5350,7 @@
               "mi_ct_banner_cta_weight": 400
             }
           },
-          "1587622275094": {
+          "1585984631870": {
             "type": "submenu_banner",
             "settings": {
               "mi_ct_w": 20,
@@ -4827,14 +5359,14 @@
               "mi_submenu_bg_c": "#ffffff",
               "mi_ct_height": 150,
               "mi_ct_mobile_height": 100,
-              "mi_ct_banner_bg_color": "#bccbee",
-              "mi_ct_banner_image": "shopify:\/\/shop_images\/emmaillotage.png",
+              "mi_ct_banner_bg_color": "#ffc107",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Transat.png",
               "mi_ct_banner_image_quality": "1920x",
-              "mi_ct_banner_head": "Swaddling >",
+              "mi_ct_banner_head": "Rocker >",
               "mi_ct_banner_cap": "",
               "mi_ct_banner_linklist": "",
               "mi_ct_banner_cta": "",
-              "mi_ct_banner_link": "shopify:\/\/collections\/swaddling",
+              "mi_ct_banner_link": "shopify:\/\/collections\/bouncer-and-accessories",
               "mi_ct_banner_text_pos": "text-pos-center",
               "mi_ct_banner_text_vpos": "text-vpos-top",
               "mi_ct_banner_text_align": "text-align-center",
@@ -4844,7 +5376,7 @@
               "mi_ct_banner_head_size": 15,
               "mi_ct_banner_head_weight": 200,
               "mi_ct_banner_head_shadow": false,
-              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_color": "#ffffff",
               "mi_ct_banner_cap_size": 14,
               "mi_ct_banner_cap_weight": 400,
               "mi_ct_banner_cap_shadow": false,
@@ -4860,83 +5392,270 @@
               "mi_ct_banner_cta_weight": 400
             }
           },
-          "1587633436534": {
-            "type": "submenu_banner",
-            "settings": {
-              "mi_ct_w": 20,
-              "mi_ct_w_mobile": 50,
-              "mi_submenu_padding": 5,
-              "mi_submenu_bg_c": "#ffffff",
-              "mi_ct_height": 150,
-              "mi_ct_mobile_height": 100,
-              "mi_ct_banner_bg_color": "#e1e0e1",
-              "mi_ct_banner_image": "shopify:\/\/shop_images\/COB043078_1_f6e4a375-615a-41dd-b14c-8a978a966dd3.png",
-              "mi_ct_banner_image_quality": "1920x",
-              "mi_ct_banner_head": "Babynomade >",
-              "mi_ct_banner_cap": "",
-              "mi_ct_banner_linklist": "",
-              "mi_ct_banner_cta": "",
-              "mi_ct_banner_link": "shopify:\/\/collections\/babynomade",
-              "mi_ct_banner_text_pos": "text-pos-center",
-              "mi_ct_banner_text_vpos": "text-vpos-top",
-              "mi_ct_banner_text_align": "text-align-center",
-              "mi_ct_banner_side_padding_hori": 0,
-              "mi_ct_banner_side_padding_vert": 0,
-              "mi_ct_banner_head_color": "#ffffff",
-              "mi_ct_banner_head_size": 15,
-              "mi_ct_banner_head_weight": 200,
-              "mi_ct_banner_head_shadow": false,
-              "mi_ct_banner_cap_color": "#000000",
-              "mi_ct_banner_cap_size": 14,
-              "mi_ct_banner_cap_weight": 400,
-              "mi_ct_banner_cap_shadow": false,
-              "mi_ct_banner_linklist_color": "#000000",
-              "mi_ct_banner_linklist_color_hover": "#ffffff",
-              "mi_ct_banner_linklist_size": 13,
-              "mi_ct_banner_linklist_weight": 400,
-              "mi_ct_banner_linklist_width": 350,
-              "mi_ct_banner_linklist_col": 2,
-              "mi_ct_banner_cta_color": "#ffffff",
-              "mi_ct_banner_cta_bgcolor": "#000000",
-              "mi_ct_banner_cta_size": 11,
-              "mi_ct_banner_cta_weight": 400
-            }
-          },
-          "1527915962159": {
+          "1527916015694": {
             "type": "menu_parent",
             "settings": {
               "mi_text": "<p style=\"font-size:17px;\">Bathtime<\/p>",
-              "mi_url": "#",
+              "mi_url": "shopify:\/\/collections\/potty-training",
               "mi_class": "",
               "mi_mobile": true,
               "mi_pos_right": false,
               "mi_icon_enabled": false,
-              "mmenu_label_text_color": "#e01313",
-              "mmenu_label_bg_color": "#ffffff",
-              "mi_submenu_w": "100%",
+              "mmenu_label_text_color": "#ffffff",
+              "mmenu_label_bg_color": "#ca302c",
+              "mi_submenu_w": "900px",
+              "mi_submenu_padding": 30,
+              "mi_submenu_bg_c": "",
+              "mi_submenu_bg_pos": "top_left",
+              "mi_submenu_bg_repeat": "no-repeat"
+            }
+          },
+          "1585986287094": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#ef958d",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Pot-et-reducteur.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Potty Training >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/potty-training",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#ffffff",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1586768548238": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#f7d571",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Accessoire-et-toilette.png",
+              "mi_ct_banner_image_quality": "1000x",
+              "mi_ct_banner_head": "Bathtime Accessories >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/bathtime-accessories",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 15,
+              "mi_ct_banner_cap_weight": 200,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1586768569084": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#d0d953",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Thermometre.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Thermometers >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/thermometer",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1587363163451": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#c5c5be",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Baignoire-et-accessoires.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Baby Bath >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/baby-bath",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1527916029054": {
+            "type": "menu_parent",
+            "settings": {
+              "mi_text": "<p style=\"font-size:17px;\">Safety<\/p>",
+              "mi_url": "shopify:\/\/collections\/safety",
+              "mi_class": "",
+              "mi_mobile": true,
+              "mi_pos_right": false,
+              "mi_icon_enabled": false,
+              "mmenu_label_text_color": "#ffffff",
+              "mmenu_label_bg_color": "#ca302c",
+              "mi_submenu_w": "200px",
               "mi_submenu_padding": 10,
               "mi_submenu_bg_c": "#ffffff",
               "mi_submenu_bg_pos": "top_left",
               "mi_submenu_bg_repeat": "no-repeat"
             }
           },
-          "1587453626901": {
+          "1586601453641": {
             "type": "submenu_banner",
+            "disabled": true,
             "settings": {
-              "mi_ct_w": 20,
+              "mi_ct_w": 25,
               "mi_ct_w_mobile": 50,
               "mi_submenu_padding": 5,
               "mi_submenu_bg_c": "#ffffff",
               "mi_ct_height": 150,
               "mi_ct_mobile_height": 100,
-              "mi_ct_banner_bg_color": "#bccbee",
-              "mi_ct_banner_image": "shopify:\/\/shop_images\/Sortie-bain.png",
+              "mi_ct_banner_bg_color": "#979793",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/Veilleuse.png",
               "mi_ct_banner_image_quality": "1920x",
-              "mi_ct_banner_head": "Towel >",
+              "mi_ct_banner_head": "Night Light >",
               "mi_ct_banner_cap": "",
               "mi_ct_banner_linklist": "",
               "mi_ct_banner_cta": "",
-              "mi_ct_banner_link": "shopify:\/\/collections\/towels",
+              "mi_ct_banner_link": "shopify:\/\/collections\/baby-night-light",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#fafafa",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1592894787010": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 25,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#f5d7bd",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/new.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Purifier >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/collections\/air-purifier",
               "mi_ct_banner_text_pos": "text-pos-center",
               "mi_ct_banner_text_vpos": "text-vpos-top",
               "mi_ct_banner_text_align": "text-align-center",
@@ -4962,17 +5681,77 @@
               "mi_ct_banner_cta_weight": 400
             }
           },
-          "1592204684684": {
+          "da899232-99e6-4b8d-b57c-3de20a3ec05c": {
+            "type": "submenu_banner",
+            "settings": {
+              "mi_ct_w": 20,
+              "mi_ct_w_mobile": 50,
+              "mi_submenu_padding": 5,
+              "mi_submenu_bg_c": "#ffffff",
+              "mi_ct_height": 150,
+              "mi_ct_mobile_height": 100,
+              "mi_ct_banner_bg_color": "#5fb9a5",
+              "mi_ct_banner_image": "shopify:\/\/shop_images\/baby_monitor_cat_image.png",
+              "mi_ct_banner_image_quality": "1920x",
+              "mi_ct_banner_head": "Baby Monitor >",
+              "mi_ct_banner_cap": "",
+              "mi_ct_banner_linklist": "",
+              "mi_ct_banner_cta": "",
+              "mi_ct_banner_link": "shopify:\/\/products\/simply-zen-baby-monitor",
+              "mi_ct_banner_text_pos": "text-pos-center",
+              "mi_ct_banner_text_vpos": "text-vpos-top",
+              "mi_ct_banner_text_align": "text-align-center",
+              "mi_ct_banner_side_padding_hori": 0,
+              "mi_ct_banner_side_padding_vert": 0,
+              "mi_ct_banner_head_color": "#ffffff",
+              "mi_ct_banner_head_size": 15,
+              "mi_ct_banner_head_weight": 200,
+              "mi_ct_banner_head_shadow": false,
+              "mi_ct_banner_cap_color": "#000000",
+              "mi_ct_banner_cap_size": 14,
+              "mi_ct_banner_cap_weight": 400,
+              "mi_ct_banner_cap_shadow": false,
+              "mi_ct_banner_linklist_color": "#000000",
+              "mi_ct_banner_linklist_color_hover": "#ffffff",
+              "mi_ct_banner_linklist_size": 13,
+              "mi_ct_banner_linklist_weight": 400,
+              "mi_ct_banner_linklist_width": 350,
+              "mi_ct_banner_linklist_col": 2,
+              "mi_ct_banner_cta_color": "#ffffff",
+              "mi_ct_banner_cta_bgcolor": "#000000",
+              "mi_ct_banner_cta_size": 11,
+              "mi_ct_banner_cta_weight": 400
+            }
+          },
+          "1596773152416": {
             "type": "menu_parent",
             "settings": {
-              "mi_text": "<p style=\"font-size:17px;\">Sale<\/p>",
-              "mi_url": "shopify:\/\/collections\/sale",
+              "mi_text": "<p style=\"font-size:17px;\">Cocoonababy<\/p>",
+              "mi_url": "https:\/\/beaba.com.au\/collections\/cocoonababy",
               "mi_class": "",
               "mi_mobile": true,
               "mi_pos_right": false,
               "mi_icon_enabled": false,
               "mmenu_label_text_color": "#ffffff",
-              "mmenu_label_bg_color": "#7771b1",
+              "mmenu_label_bg_color": "#ca302c",
+              "mi_submenu_w": "900px",
+              "mi_submenu_padding": 30,
+              "mi_submenu_bg_c": "",
+              "mi_submenu_bg_pos": "top_left",
+              "mi_submenu_bg_repeat": "no-repeat"
+            }
+          },
+          "1585037672847": {
+            "type": "menu_parent",
+            "settings": {
+              "mi_text": "<p style=\"font-size:17px;\">Sales & Promotions<\/p>",
+              "mi_url": "shopify:\/\/collections\/discount",
+              "mi_class": "",
+              "mi_mobile": true,
+              "mi_pos_right": false,
+              "mi_icon_enabled": false,
+              "mmenu_label_text_color": "#ffffff",
+              "mmenu_label_bg_color": "#ca302c",
               "mi_submenu_w": "900px",
               "mi_submenu_padding": 30,
               "mi_submenu_bg_c": "",
@@ -4982,21 +5761,38 @@
           }
         },
         "block_order": [
-          "1585037672847",
+          "1527916048062",
           "1527841308174",
           "1528096431659",
+          "297b095f-8784-4ecf-957b-a3f4e63496c2",
           "1528097232427",
-          "1582061175308",
-          "1587455922988",
+          "1585037864114",
+          "1585040537200",
           "1527841312561",
+          "1588576510424",
           "1585189104139",
-          "1527915857970",
           "1585190804309",
-          "1587622275094",
-          "1587633436534",
-          "1527915962159",
-          "1587453626901",
-          "1592204684684"
+          "1587362314123",
+          "1585986109403",
+          "1587363972935",
+          "1597985497368",
+          "1585984728778",
+          "1586768725296",
+          "1586766337209",
+          "1527915857970",
+          "1585984596170",
+          "1585984631870",
+          "1527916015694",
+          "1585986287094",
+          "1586768548238",
+          "1586768569084",
+          "1587363163451",
+          "1527916029054",
+          "1586601453641",
+          "1592894787010",
+          "da899232-99e6-4b8d-b57c-3de20a3ec05c",
+          "1596773152416",
+          "1585037672847"
         ],
         "settings": {
           "mmenu_use": true,
@@ -5021,200 +5817,272 @@
       "faq-section": {
         "type": "faq-section",
         "blocks": {
+          "1585992619633": {
+            "type": "faq",
+            "settings": {
+              "question": "<p style=\"color:rgba(255,0,0,0.5);font-size:20px\">Using the Babycook® <\/p>",
+              "answer": ""
+            }
+          },
+          "1528134757034": {
+            "type": "faq",
+            "settings": {
+              "question": "What are the different between the various Babycook models?",
+              "answer": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/FAQ1.png?v=1585989268\">"
+            }
+          },
           "1528134787780": {
             "type": "faq",
             "settings": {
-              "question": "Is the Cocoonababy SIDS safe?",
-              "answer": "Unfortunately, there is no guarantee against Sudden Infant Death Syndrome (SIDS) as the exact cause of SIDS is unknown. Research has identified some factors that increase the risk of SIDS. These include sleeping baby on the stomach or side, overheating, and exposure to cigarette smoke. Accidental suffocation such as during bed sharing or from soft objects may also play a role. Another risk factor is being born before 39 weeks of gestation.\n\nTherefore, although the Cocoonababy was developed in 1995 by a pediatric physiotherapist in collaboration with medical professionals and has been extensively used in hospitals and in homes around the world since (including in thousands of Australian homes) with no single case of SIDS ever reported, the Cocoonababy, like any other baby mattress, is not a guarantee against SIDS.\n\nRegardless of the mattress you decide to choose for your baby, we recommend that you follow these safe sleeping guidelines:\n\nSleep baby on the back from birth, not on the tummy or side\nSleep baby with head and face uncovered, using a sleeping bag rather than a blanket is a great solution\nKeep baby smoke free before birth and after\nProvide a safe sleeping environment night and day\nSleep baby in their own safe sleeping place in the same room as an adult caregiver for the first six to twelve months\nKeep the temperature of the room where baby sleeps between 18 and 20oC\nIn addition, when using the Cocoonababy®, make sure that you follow all the instructions for use. All accessories designed for use with the Cocoonababy® nest such as the Cocobag™, a high-waisted sleeping bag, the Swaddle Blanket and the Cocoonacover™ also conform to safe-sleeping practices by eliminating the need for loose blankets."
+              "question": "How do I steam cook food?",
+              "answer": "Open the lid by pressing the coloured latch on the top of the lid. Remove basket and fill it with diced food (approx. ½ inch cubes). Determine the amount of water needed depending on the type of food you are steaming (see instructions manual). Measure out the water with the cooking bowl (using the graduations 1-2-3). Pour water into the heating reservoir by placing the lip of the bowl on the upper edge of the reservoir. Place the bowl on the base and lock into place by turning clockwise until you hear a click and the bowl cannot turn any further. Then lock the lid into place by pressing on the rubber arrow on the locking arm until you hear it click into place. Plug in the appliance and press the round steam button. A light and a sound signal when the cooking cycle starts. When cooking is complete, a sound signal is heard and the steam symbol.\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/JQ5F7RLiyYo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"><\/iframe>"
             }
           },
           "1528134808213": {
             "type": "faq",
             "settings": {
-              "question": "I heard that sleep positioners can be dangerous as babies can suffocate against them if they roll from their back to their stomach. Is this a risk with the Cocoonababy?",
-              "answer": "The Cocoonababy is not a sleep positioner but an ergonomic mattress. It does not introduce any suffocation risk.\n\nThe Cocoonababy should only be used from birth until the age of 3 months, or when your baby starts rolling. Before then, babies are physically incapable of turning in the nest in such a way that the sides of the nest could impede their breathing. In addition, the tummy band ensures that babies stay in the correct position in the nest at all times."
+              "question": "How Long Does Food Need to Cook?",
+              "answer": "Babycook® steam cooks food very quickly and takes between 5 and 15 minutes depending on the amount of water in the heating reservoir. When steaming food with high water content, such as string beans, zucchini, apples and pears, Babycook® runs for approximately 10 minutes with 2 measures of water. When steaming foods with low water content, such as potatoes, carrots, peas, red meat and poultry, Babycook® takes approximately 15 minutes with 3 measures of water. When reheating foods, cook with 1 measure of water (about 5 minutes)."
             }
           },
           "1528134844127": {
             "type": "faq",
             "settings": {
-              "question": "I told nurses in the maternity clinic that I bought a Cocoonababy® and they advised me not to use it as it introduces a SIDS risk. What is your reply to that?",
-              "answer": "Medical consultants rely on a recommendation to lay babies strictly flat on their back to sleep. This is the basis for their recommendation not to use the Cocoonababy® or any other sleep aid product.\n\nThe Cocoonababy® began its life in hospitals. It was created by a paediatric physiotherapist with whom Red Castle worked closely to make a version for the general public in order to be able to prescribe it to patients when they left the hospital environment. Read more on the origin of the Cocoonababy® here.\n\nIn 2017 the Cocoonababy® celebrated 20 years since its creation and 10 years of commercialisation. More than 300,000 parents have used the Cocoonababy® in the past 10 years, without any incident ever reported.\n\nThe Cocoonababy® is also regularly tested and approved by accredited certification laboratories on the basis that it poses no health risk to infants whatsoever.\n\nWe remain at your disposal for any questions concerning the Cocoonababy® and also invite medical teams to contact Red Castle at contact@redcastle.fr for more information."
+              "question": "How do i blend food?",
+              "answer": "Place the flat mixing lid on the cooking bowl and ensure that it is lying flat inside the bowl so that it does not slip down when mixing. Place the bowl on the base and lock into place by turning clockwise until you hear a click and the bowl cannot turn any further. Then lock the lid into place by pressing on the rubber arrow on the locking arm until you hear it click into place. Plug in the appliance and turn the dial to the right, pulsing until you reach the desired consistency of your food. For a thinner consistency, you may add liquid to the bowl before blending.\n\nEnsuring you use the mixing lid will keep any food debris from re-entering and contaminating the steam heating compartment, which will make your Babycook® last longer."
             }
           },
-          "1586841926051": {
+          "1585988814672": {
             "type": "faq",
             "settings": {
-              "question": "My health visitor says that babies should lie on a firm flat surface. The nest seems soft and not flat so I’m not sure about using it.",
-              "answer": "It is correct that babies should not be placed on a soft surface as their body will “sink” into it. However on a flat, hard surface babies cannot lie in a cradled posture which reminds them of their mother’s womb and reassures them. The Cocoonababy® nest is neither soft, flat, nor hard: it is designed in such a way that its base is firm yet its surface soft.\n\nThe difference between the Cocoonababy® nest and a standard flat mattress is a 15-degree incline. The Cocoonababy® includes a wedge which prevents baby from wriggling down the nest and a tummy band which maintains baby in an ideal position without impeding his freedom of movement.\n\nThis ergonomic design has many advantages: it keeps babies on their back but cradles them, allowing them to move their arms and head freely and to interact with those around them. What's more, the semi-foetal posture in which baby lies helps to limit the following concerns which have developed since babies lie on a flat surface to sleep: Plagiocephaly (Flat head syndrome) and painful gastric reflux. It also helps to reduce involuntary jerky movements which wake babies with a start (startle or Moro reflex).\n\nThe Cocoonababy has been tested to ensure that the foam firmness is strong enough to avoid the baby’s head sinking into the foam too deeply as this could be a cause of suffocation. The testing method was adapted to products complying with EN16890 (the German safety requirements and test methods for baby mattresses)."
+              "question": "How do i defrost or reheat food?",
+              "answer": "Babycook® reheats food using steam. Food should be placed inside a heat resistant bowl or a BÉABA® Portions Container, and then inside the steam-cooking basket (the one with holes). Pour 2 measures of water into the heating reservoir and start a cooking cycle. When the sound signals the end of the cycle, remove the container with a dry cloth. Caution: the residual water is very hot at the end of the cooking cycle. Mix the contents with the included spatula to obtain an even temperature"
             }
           },
-          "1586842036065": {
+          "1585989992796": {
             "type": "faq",
             "settings": {
-              "question": "After using the nest for a few days my baby seems to lie more deeply in it. Is this normal?",
-              "answer": "This is perfect - This means that the special fabric covering the foam has moulded itself to the shape of the foam. Your baby is really in his nest!"
+              "question": "Can i steam on both sides of the Babycook® Due at the same time?",
+              "answer": "Yes, Babycook® Duo has 2 separate steam reservoirs and 2 steam buttons so you can cook 2 meals simultaneously."
             }
           },
-          "1586842050009": {
+          "1585990023315": {
             "type": "faq",
             "settings": {
-              "question": "I read that a child is able to move in the nest but you say that he can’t get out of it.",
-              "answer": "When we say that babies can move in the nest we mean that they can turn their head and move their arms allowing them to discover their hands. However, during the first months of their life, babies are unable to roll onto their side or turn over in the nest."
+              "question": "Can i blend on both sides in the babycook® duo?",
+              "answer": "While Babycook® Duo has 2 steaming chambers, it only has 1 motor for blending. Once food is steamed on either side of the appliance, simply place the bowl in which you would like to blend on the right side of the machine and follow the blending instructions found in your manual."
             }
           },
-          "1586842062004": {
+          "1585990054436": {
             "type": "faq",
             "settings": {
-              "question": "You say that the Cocoonababy nest should be used day and night when baby is sleeping. Is that not too much?",
-              "answer": "In fact babies sleep most of the time during the first few weeks. Thanks to its shape and the materials used to make it, the Cocoonababy nest is the only product which can be used day and night for the first months. The posture adopted by your child in the nest has been studied in depth by medical specialists and is the best one for your baby’s comfort and development. So it is important that your baby should be in the nest when not in your arms, on a play mat or out for a stroll. The nest reassures and comforts babies, gives them the freedom of movement which encourages their eye-hand development, and allows them to interact with those around them when they are not asleep."
+              "question": "How do i turn babycook® off?",
+              "answer": "Babycook® shuts off automatically when there is no water present in the steam reservoir. Best practices include unplugging the appliance when not in use."
             }
           },
-          "1586842071578": {
+          "1585992712985": {
             "type": "faq",
             "settings": {
-              "question": "I am worried that my baby may slip between the bars of his cot and the sides of the nest?",
-              "answer": "There is no risk of this happening so long as you follow the instructions for use closely and stop using the Cocoonababy as soon as your child starts trying to change position when in it."
+              "question": "<p style=\"color:rgba(255,0,0,0.5);font-size:20px\">Technical Questions and maintenance<\/p>",
+              "answer": ""
             }
           },
-          "1586842080553": {
+          "1585990348580": {
             "type": "faq",
             "settings": {
-              "question": "You seem to find it important that babies can touch their face in the Cocoonababy. Why is this?",
-              "answer": "In the womb babies can touch their face and even suck their thumb. If after birth they are placed on their back on a flat, hard surface, their arms will lie on either side of their head in a \"3 branch candlestick\" posture. They will not be able to touch their face as they do not have the strength to move their arms upwards – and it is said that in this posture babies suffer from \"separation anxiety\" as they are lying in a space too big for them and they lose their bearings. In the Cocoonababy nest, babies can touch their face, mouth and body thereby feeling the limits of their own body which they find very reassuring."
+              "question": "How do I clean my Babycook®?",
+              "answer": "Always unplug the appliance before you start cleaning it. Immediately rinse the accessories that have come into contact with the food under running water. Wash with warm soapy water. After cleaning the blade, make sure that the gasket and seal are reattached properly. Never submerge the appliance in water. The bowl, basket, lid and spatula are top-rack dishwasher safe."
             }
           },
-          "1586842089978": {
+          "1585990483398": {
             "type": "faq",
             "settings": {
-              "question": "Some mothers say that there are other products on the market made in visco-elastic foam (memory-foam) which are the same thing as the Cocoonababy nest.",
-              "answer": "This is not true. The Cocoonababy nest is not made in visco-elastic foam. It is made from two different kinds of polyurethane foam, one used for reactivity, the other for comfort. The products made in visco-elastic foam maintain babies in the position in which they are placed and are therefore to be avoided until babies have gained their own motor skills (around 4-5 months). The Cocoonababy nest produces the opposite effect: it helps babies to move their head and arms at an early stage thus gaining motor skills."
+              "question": "Carrots and pumpkin have stained my babycook®, what can i do to remove these stains?",
+              "answer": "Carrots and other vegetables contain natural dyes that discolour plastic. As plastic is a porous material, it accepts the dyes easily, showing discolouration. You can remove the staining from your Babycook by dipping a paper towel or cotton ball in vegetable oil until it is soaked. Scrub the stain with the paper towel or cotton ball until it disappears. Once the stain is gone, wash the cleaned area with a paper towel soaked in soapy water to remove the oil.\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/D3w4vTvwke8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"><\/iframe>"
             }
           },
-          "1586842112169": {
+          "1585990526021": {
             "type": "faq",
             "settings": {
-              "question": "Can the nest be placed in a carrycot?",
-              "answer": "No because a carrycot is not deep enough. The sides of the cot or the cradle should be at least 20cms higher than the top of the nest (in conformity with the French safety regulations and bedding standard)."
+              "question": "How do i descale my babycook®?",
+              "answer": "When the steam button turns red, it is necessary to descale the heating reservoir. Descale the heating reservoir regularly using our descaling liquid, or white vinegar. Ensure the device is cold and not connected to the electrical outlet; pour a mixture of ½ cup of descaling liquid + ½ cup of water into the heating reservoir. Leave for the night and then empty. Repeat if necessary until all lime deposits have been removed. Connect the device to the electrical outlet and then complete two heating cycles using water only in the heating reservoir (3 measures of water) in order to rinse it well. Before the 2nd heating cycle, press and HOLD the steam button down for 30 seconds to reset the cycle counter. The steam button light will turn white. Then clean the bowl and accessories with warm, soapy water. Never use a chemical descaler or a coffee machine descaler in the heating reservoir.\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/kwXeCbrmJVk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"><\/iframe>"
             }
           },
-          "1586842123056": {
+          "1585990538933": {
             "type": "faq",
             "settings": {
-              "question": "Can babies wear a sleeping bag in the Cocoonababy nest?",
-              "answer": "Yes, they can – however, choose a small size suitable for a baby up to 4 months only. In fact we have designed the Cocobag sleeping bag especially for babies in the Cocoonababy – it is ideal for this purpose because it is not bulky or too warm."
+              "question": "Can i sterilize babycook® parts?",
+              "answer": "Babycook® parts are not suitable for sterilizing."
             }
           },
-          "1586842132974": {
+          "1585990920980": {
             "type": "faq",
             "settings": {
-              "question": "My baby seems to be hot in the Cocoonababy nest. What should I do?",
-              "answer": "It is normal that lying in a cradled position babies will feel warmer than lying flat on their back. Imagine if you yourself were to sit curled up in an armchair, as opposed to sitting on a straight backed chair with nothing around you. Simply touch the nape of your baby's neck to establish if your baby is too warm and adjust the clothes or covers on your baby."
+              "question": "There is fine brown silt at the bottom of my heating reservoir. What is it?",
+              "answer": "If you notice a brown deposit (lime scale) in your heating reservoir, you'll need to descale your appliance. Instructions for descaling are located in your product manual or below.\nPlease note: this is not toxic to your infant.\n\nInstructions on how to descale your Babycook®:\n\nFill the entire heating reservoir with descaling liquid (or white distilled vinegar) and let it sit overnight\nPour out the liquid\nRun 2 cooking cycles with plain water\nRepeat as many times as necessary until clean\nBe sure not to run the cooking cycle until the reservoir is completely clean. Otherwise, you are just \"baking\" the build-up onto the sides of the reservoir.\n\nOnce the reservoir is clean, be sure to descale your Babycook® at the first sign of build-up. Keeping the reservoir clean is much easier than trying to remove stubborn build-up.\n\nPlease note that all Babycooks are Quality Controlled as part of the manufacturing process. This involves running a few cooking cycles and can lead to a small deposit of limescale at the bottom of the cooking reservoir. These testing runs are taken into account in the cycle count for your descaling indicator light, which will remind you when to descale your Babycook."
             }
           },
-          "1586842501781": {
+          "1585990928502": {
             "type": "faq",
             "settings": {
-              "question": "I have seen baby \"beanbags\" which look as if they are similar to the Cocoonababy® nest?",
-              "answer": "No they are not the same. The products which are filled with small polystyrene beads maintain the child in the position in which he is placed (just like ‘memory foam’). The effect they have is totally opposite to the advantages procured by the Cocoonababy® nest."
+              "question": "Does Babycook®'s gasket have to be regularly replaced?",
+              "answer": "When the gasket is properly cleaned (not suitable for the dishwasher) and properly attached, there is no need to change it. However it will wear over time and with use, so check that it is still sealing properly each time you use Babycook®."
             }
           },
-          "1586842515818": {
+          "1585990935232": {
             "type": "faq",
             "settings": {
-              "question": "Can I swaddle my baby when he or she is in the nest?",
-              "answer": "Yes, it is possible to swaddle your child in the Cocoonababy nest. However, a child which starts life in the nest will most probably not need to be swaddled. In fact, the semi-foetal, cradled posture which is adopted in the nest will help your baby to feel secure, limit startle reflex\/Moro Reflex (sudden, uncontrolled arm movements which wake babies up and make them cry) and reduce the chances of your baby suffering from colic. It will help your baby sleep better too.\n\nIf you do want to swaddle your baby, we recommend using our Swaddle Blanket which provides unique freedom of hand and leg movements."
+              "question": "Technical questions and maintenance -  Does Babycook® require assembly?",
+              "answer": "Babycook® comes assembled and ready to use. However, for hygiene reasons, before using for the first time, we recommend completing 3 cooking cycles of water only using 3 measures of water each time. Then clean the bowl and accessories (spatula, bowl lid, basket, blades, gasket and mixing lid) with warm soapy water. Your Babycook® is now ready to use!"
             }
           },
-          "1586842529636": {
+          "1585990941111": {
             "type": "faq",
             "settings": {
-              "question": "The Cocoonababy nest seems quite small to me. I don’t really think my child will be able to use it for four months.",
-              "answer": "Larger babies may be longer than the nest by the age of 4 months – but this is not a problem. Simply remove the wedge and allow your baby’s legs to rest on the bottom edge of the nest with their feet over the end, as shown in the picture below. What is important is that at all times babies must not be able to push against anything with their feet and put themselves into a hyper-extended posture.\n\nFeet over the end of the Cocoonababy"
+              "question": "Can the Babycook®'s lid be removed for cleaning?",
+              "answer": "Yes of course! Watch the video below to see exactly how to remove and reattach the Babycook® lid.\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/CUW9guJZ7WU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"><\/iframe>"
             }
           },
-          "1586842548251": {
+          "1585990946216": {
             "type": "faq",
             "settings": {
-              "question": "I have a cushion I bought to support me during my pregnancy. Couldn't I use it to cradle my baby like the nest during the first few months?",
-              "answer": "Support\/feeding cushions are generally filled with polystyrene beads. If you place your child in the centre of the cushion it will effectively make him feel cradled or “contained” in a small space  but he will automatically remain in that posture - which will not necessarily be the right one. Leaving him lying in an incorrect posture for a few hours during the day or during the night is not recommended.  Products made from beads can sag so parental surveillance is essential at all times. There is no substitute for the Cocoonababy® nest which has evolved through years of medical observation."
+              "question": "Why does my lid have a gap when it's locked onto the blending bowl?",
+              "answer": "This is normal. The assembly lid must have a gap to ensure steam can escape."
             }
           },
-          "1586842555935": {
+          "1585990951551": {
             "type": "faq",
             "settings": {
-              "question": "If I put my baby in the nest during the daytime, how can I distract him or her?",
-              "answer": "You could put the nest onto a play mat with a toy bar over it or put your baby in his cot with a mobile to look at - but ensure that the toys are level with your baby's feet and not directly above their head. Contrary to common practice, babies lying on their back should actually have their gaze drawn towards their feet to encourage them to adopt a cradled posture. If their gaze is drawn above their head, this encourages a hyper extended posture which is detrimental to babies' comfort and development. When lying in the nest, babies will also be able to watch the other family members – and they will be happy to participate in what is going on around them."
+              "question": "What is the Babycook® bowl made of?",
+              "answer": "If you have a clear bowl, the bowl is made of Copolyester. The inside steam basket is made from transparent Polypropylene. Both of these materials are BPA-free, lead-free and phthalate-free."
             }
           },
-          "1586842566770": {
+          "1585990957321": {
             "type": "faq",
             "settings": {
-              "question": "What happens when my baby grows out of the Cocoonababy? Is it difficult to transition to a flat mattress?",
-              "answer": "In general, it isn't hard for babies to transition from the Cocoonababy to a flat mattress. A baby needs about 3-4 months to adapt from the nautical space (mother's womb) to the aerial space. When babies start rolling (about 4 months of age) it is a sign that they are old enough to \"settle by themselves\" and won't have any difficulties in getting to sleep without the help of the Cocoonababy. What you can do to facilitate the transition is take the wedge off when your baby is about 4 months, starts rolling and is effectively growing out of the Cocoonababy. Continue to use the Cocoonababy for nap time (under supervision). At night, start sleeping your baby flat on a mattress. After a few days, you should be able to sleep your baby flat on a mattress for both naptime and night."
+              "question": "Is the Multiportions™ Freezer Tray oven-safe?",
+              "answer": "Yes, the Multiportions™ tray is made of platinum quality silicone, which is freezer, oven, microwave, and dishwasher safe. Be careful not to bake the milky white lid, the lid is not oven-safe.\n\nWe recommend a maximum temperature of 200 degrees Celsius when baking."
             }
           },
-          "1586842576760": {
+          "1585990965056": {
             "type": "faq",
             "settings": {
-              "question": "Can I reuse my Cocoonababy for my second child?",
-              "answer": "Yes, as long as your Cocoonababy is in good condition and you have followed all the care instructions, you can use it for your second child. The foam cocoon should not be washed as any contact with water or humidity will damage the foam. The waterproof cover of the Cocoonababy and the fitted sheet are both machine washable and must be dried completely before use or storage."
+              "question": "Can the handle of the Babycook Neo jug be dismantled for cleaning purposes?",
+              "answer": "Yes, it can. Follow the steps shown in this video to dismantle the handle.\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/wf6cnH6D-i4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"><\/iframe>"
             }
           },
-          "1586842586156": {
+          "1585992830750": {
             "type": "faq",
             "settings": {
-              "question": "Why do you have a Tummy Band with Cocoonababy? What is its purpose?",
-              "answer": "The motor skills of children less than 4 months old do not allow them to get out of the nest. This question, however, is one which is recurrent among first time parents. So we decided to include a Tummy Band which, thanks to its special design, does not restrict your baby’s movements. It reassures parents … and is also great for the baby, who will feel even better in the nest as this small band has a calming effect! In fact, as does swaddling, it applies the same light pressure on your baby’s tummy as your hand would in order to appease colic and it incites the child to adopt a ‘centred’ rather than an ‘extended’ position."
+              "question": "<p style=\"color:rgba(255,0,0,0.5);font-size:20px\">Troubleshooting<\/p>",
+              "answer": ""
             }
           },
-          "1586842596143": {
+          "1585990971642": {
             "type": "faq",
             "settings": {
-              "question": "What is the Cocoonababy made of? Is there any toxic or harmful component?",
-              "answer": "The Cocoonababy foam is made of PU (polyurethane) foam. The foam is certified CertiPUR which ensures that the product is manufactured in compliance with the highest Safety, Health and Environment standards. It contains no heavy metals or volatile organic compounds (VOCs) and has not been treated with any fireproof retardants. \n\nThe protective cover is in Tencel fabric and is labeled Oeko-tex Standard 100. The fabric of the fitted sheet and Cocoonacover is in Fleur de coton, cotton fabric, also certified Oeko-tex Standard 100. These materials do not contain any heavy metals. \n\nCertipur  Oeko-tex Standard 100\n\nThe packaging of the Cocoonababy has also been tested and contains no phthalates or heavy metals."
+              "question": "Why is the heating light on my Babycook® flashing on and off?",
+              "answer": "There is not enough water in the steam heating compartment. Add the correct measure of water to the steam heating compartment (the water goes in the tank NOT the bowl).\nThe cooking cycle is complete. Press on the steam button and the flashing will stop."
             }
           },
-          "1586842610798": {
+          "1585990979894": {
             "type": "faq",
             "settings": {
-              "question": "Is the Cocoonababy compatible with mattress sensors?",
-              "answer": "Mattress sensors use different techniques to capture and transmit information. You should check with the product manufacturer whether their particular sensor is compatible with the type of foam used in the Cocoonababy nest and its thickness.\n\nThe Cocoonababy is made of PU (polyurethane) foam and has a maximum thickness of 19cm."
+              "question": "The steam button light has turned red and will not go off. What should I do?",
+              "answer": "Don't worry, nothing is wrong with your Babycook®. The red light is just the descaling reminder light. Follow the instructions for descaling; you can find the instructions in your manual. Once you have descaled with our descaling liquid (or white vinegar), it is important that you unplug the unit for several minutes. Then, plug it back in. Lock your Blending Bowl(s) in to place (Listen For Click) press down on arrows at the top of your lid to ensure your lid is locked, and then PRESS and HOLD the steam button down for 30 seconds to reset the cycle counter. The steam button will turn white again.\n\nInstructions on how to descale your Babycook®:\n\nFill the entire heating reservoir with descaling liquid (or white distilled vinegar) and let it sit overnight\nPour out the vinegar\nRun 2 cooking cycles with plain water\nRepeat as many times as necessary until clean\nBe sure not to run the cooking cycle until the reservoir is completely clean. Otherwise, you are just \"baking\" the build-up onto the sides of the reservoir.\n\nOnce the reservoir is clean, be sure to descale your Babycook® at the first sign of build-up. Keeping the reservoir clean is much easier than trying to remove stubborn build-up."
             }
           },
-          "1586842627884": {
+          "1585990986133": {
             "type": "faq",
             "settings": {
-              "question": "What is the difference between the lightweight, quilted and fleece fabrics and when should I use which?",
-              "answer": "Red Castle has adopted the TOG rating system which identifies the heat or \"thermal resistance\" of a product. The higher the TOG value on an article, the more heat it retains. Our products fit one of three TOG ratings depending on the fabric used: TOG 0.5 for lightweight cotton, TOG 2 for quilted cotton, and TOG 3 for quilted fleece fabric.\n\n\n\nA word of caution: a sleeping bag should not be chosen based on the temperature outdoors but according to the temperature of baby's bedroom and his sleepwear. \n\nTwo examples: It is possible that in wintertime, in a well-heated apartment, a child may need a TOG 0.5 model sleeping bag rather than a TOG 3 model. Similarly, during summer if air conditioning is used, your baby may need a TOG 2 model rather than a TOG 0.5 model. \n\nTo determine how to dress your baby in his Red Castle sleeping bag, refer to the table below."
+              "question": "Why are the back-lit button and logo on the front of Babycook® not staying lit?",
+              "answer": "The bowl lid and\/or the bowl are not correctly attached. When positioned on the base, turn the bowl clockwise until you hear a click and the bowl will not turn any further. Then make sure the lid is also locked by re-opening it and then closing it while pressing on the rubber arrow on top of the locking arm that holds the lid until you hear a click. Most people find that they can solve this issue after watching the video below.\nIf the instructions above and the video below do not help you, the heating element or other electrical element may be out of order. In this case, either the base or the whole product may need to be replaced. We can help you with this if you contact us.\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/JQ5F7RLiyYo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"><\/iframe>"
+            }
+          },
+          "1585990992912": {
+            "type": "faq",
+            "settings": {
+              "question": "My Babycook® is not heating. Why is it not heating?",
+              "answer": "Babycook® may not be properly plugged in. Check that the appliance is properly plugged into a standard polarized outlet with power. The polarized plug is intended to reduce the risk of electric shock. This plug is designed to fit only one way. If the plug does not fit fully into the outlet, reverse the plug. Do not attempt to modify the plug in any way.\nThe bowl lid and\/or the bowl are not correctly attached. When positioned on the base, turn the bowl clockwise until you hear a click and the bowl will not turn any further. Then make sure the lid is also locked by re-opening it and then closing it while pressing on the rubber arrow on top of the locking arm that holds the lid until you hear a click. Check out the video below for more info on this.\nYou have not pressed the round steam button. You will know that the button is pressed and a heat cycle is in progress when the steam button is back-lit.\nThere is no water in the steam heating compartment. Add the correct measure of water to the steam heating compartment (the water goes in the tank NOT the bowl).\nIf Babycook® is not heating and you have ruled out the above causes, the heating element or thermostat may not functioning properly. In this case, either the base or the whole product may need to be replaced. Please contact us so that we may assist you with this issue.\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/gdYnbXPkIqM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"><\/iframe>"
+            }
+          },
+          "1585990998625": {
+            "type": "faq",
+            "settings": {
+              "question": "My Babycook® is not working at all (there is no power).",
+              "answer": "Most commonly, this means that power cord on the bottom of the machine is loose. Babycook® is designed with a removable cord for easy storage, but the cord needs to be pushed in all the way in order for the machine to function. Simply turn over your Babycook®, remove the cord and then push it back in as far as it will go. If this does not work, please contact us."
+            }
+          },
+          "1585991003962": {
+            "type": "faq",
+            "settings": {
+              "question": "My food is not cooking all the way through. Why is that?",
+              "answer": "There is too much scale build-up in the steam heating reservoir. Descale your appliance regularly to prevent lime scale build up in the water tank. See above directions for descaling.  \nThere is not enough water in the steam heating compartment. Add the correct measure of water to the steam heating compartment (the water goes in the tank NOT the bowl).\nThere is too much food in the bowl and there is no room for the steam to circulate and fully cook the food. Reduce the amount of food in the bowl and\/or run the steaming cycle again."
+            }
+          },
+          "1585991009692": {
+            "type": "faq",
+            "settings": {
+              "question": "Why is my Babycook® leaking?",
+              "answer": "Leakage can be caused by a variety of issues. It is best to check each one to ensure your product is working properly.\n\nCheck the gasket and ensure that it is properly assembled under the knife blade. The gasket should be mounted with the thin edge of the gasket touching the metal part of the bowl. Please watch the video below to make sure that your gasket is properly attached to the blade and bowl. If there is no gasket underneath the blade or if the gasket is worn out or ripped, you must replace the gasket.\nThe bowl is cracked or broken.\nThere is a significant gap between the silicone nozzle on the outside of the steam reservoir and the bowl lid so some steam comes out, creating water drops along with casing. Replace the bowl if excessive amounts of water are escaping. However, some water droplets are normal.\nThere is no nut on the knife blade. Reattach the nut. Correctly fasten the nut with the flat side in contact with the metal part of the bowl and turn the nut counter-clockwise.\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/gMYa0y6V9-0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"><\/iframe>\n\nProper attachment of the blade, gasket and locking nut\nIf your Babycook® is leaking or not blending, you may just need a little tutorial on how to secure the blade to the bowl. Watch this video and try to imitate what we do.\nNote: Please be careful. Never touch the sharp metal blade itself\n\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/TMv6P8A4bW4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"><\/iframe>"
+            }
+          },
+          "1585991015219": {
+            "type": "faq",
+            "settings": {
+              "question": "Why is my Babycook® not blending?",
+              "answer": "Babycook® may not be properly plugged in. Check that the appliance is properly plugged into a standard polarized outlet with 240V power. The polarized plug is intended to reduce the risk of electric shock. This plug is designed to fit only one way. If the plug does not fit fully into the outlet, reverse the plug. Do not attempt to modify the plug in any way.\nThe bowl lid and\/or the bowl are not correctly attached. When positioned on the base, turn the bowl clockwise until you hear a click and the bowl will not turn any further. Then make sure the lid is also locked by re-opening it and then closing it while pressing on the rubber arrow on top of the locking arm that holds the lid until you hear a click.\nThere is no nut on the knife blade. Reattach the nut. Correctly fasten the nut with the flat side in contact with the metal part of the bowl and turn the nut counter-clockwise.\nYou hear the motor running but the blade does not turn. If this is happening, the rotating belt is not in contact with the pulley inside the machine. In this case, either the base or the whole product may need to be replaced. \nThe motor is not functioning properly. In this case, either the base or the whole product may need to be replaced. \nProper attachment of the blade, gasket and locking nut\nIf your Babycook® is leaking or not blending, you may just need a little tutorial on how to secure the blade to the bowl. Watch this video and try to imitate what we do.\nNote: Please be careful. Never touch the sharp metal blade itself\n\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/TMv6P8A4bW4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"><\/iframe>"
+            }
+          },
+          "d8a46083-bcb2-4fda-b601-f0e6c76ae25c": {
+            "type": "faq",
+            "settings": {
+              "question": "<p style=\"color:rgba(255,0,0,0.5);font-size:20px\">Milkeo Calibration<\/p>",
+              "answer": ""
+            }
+          },
+          "ed3e960c-55c6-479a-8121-65fa66d496cc": {
+            "type": "faq",
+            "settings": {
+              "question": "How to calibrate the Milkeo water volume?",
+              "answer": "<div style=\"text-align: left;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/recalibration_ENG_5_1024x1024.png?v=1605490859\" alt=\"\" style=\"float: none;\"><\/div>\n<div style=\"text-align: left;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/recalibration_ENG_1_1024x1024.png?v=1605490918\" alt=\"\" style=\"float: none;\"><\/div>\n<div style=\"text-align: left;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/recalibration_ENG_2_1024x1024.png?v=1605490814\" alt=\"\" style=\"float: none;\"><\/div>\n<div style=\"text-align: left;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/recalibration_ENG_3_1024x1024.png?v=1605490941\" alt=\"\" style=\"float: none;\"><\/div>\n<div style=\"text-align: left;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/recalibration_ENG_4_1024x1024.png?v=1605490973\" alt=\"\" style=\"float: none;\"><\/div>\n<div style=\"text-align: left;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/recalibration_ENG_6_1024x1024.png?v=1605491030\" alt=\"\" style=\"float: none;\"><\/div>\n<div style=\"text-align: left;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/recalibration_ENG_7_1024x1024.png?v=1605491058\" alt=\"\" style=\"float: none;\"><\/div>\n<div style=\"text-align: left;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/recalibration_ENG_8_1024x1024.png?v=1605491301\" alt=\"\" style=\"float: none;\"><\/div>"
             }
           }
         },
         "block_order": [
+          "1585992619633",
+          "1528134757034",
           "1528134787780",
           "1528134808213",
           "1528134844127",
-          "1586841926051",
-          "1586842036065",
-          "1586842050009",
-          "1586842062004",
-          "1586842071578",
-          "1586842080553",
-          "1586842089978",
-          "1586842112169",
-          "1586842123056",
-          "1586842132974",
-          "1586842501781",
-          "1586842515818",
-          "1586842529636",
-          "1586842548251",
-          "1586842555935",
-          "1586842566770",
-          "1586842576760",
-          "1586842586156",
-          "1586842596143",
-          "1586842610798",
-          "1586842627884"
+          "1585988814672",
+          "1585989992796",
+          "1585990023315",
+          "1585990054436",
+          "1585992712985",
+          "1585990348580",
+          "1585990483398",
+          "1585990526021",
+          "1585990538933",
+          "1585990920980",
+          "1585990928502",
+          "1585990935232",
+          "1585990941111",
+          "1585990946216",
+          "1585990951551",
+          "1585990957321",
+          "1585990965056",
+          "1585992830750",
+          "1585990971642",
+          "1585990979894",
+          "1585990986133",
+          "1585990992912",
+          "1585990998625",
+          "1585991003962",
+          "1585991009692",
+          "1585991015219",
+          "d8a46083-bcb2-4fda-b601-f0e6c76ae25c",
+          "ed3e960c-55c6-479a-8121-65fa66d496cc"
         ],
         "settings": {
         }
@@ -5225,7 +6093,7 @@
           "1541731331350": {
             "type": "introduction",
             "settings": {
-              "image": "",
+              "image": "shopify:\/\/shop_images\/little-boy-ready-for-school-looking-up.jpg",
               "image_position": "right",
               "heading": "<p style=\"color:#2AD2C9\">Béaba, being a parent is child's play<\/p>",
               "subheading": "<br>It is often said that it is not easy being a parent...",
@@ -5490,7 +6358,7 @@
           "placement_fullwidth": true,
           "visible_on_mobile": true,
           "margin_top": 25,
-          "paddings": 0,
+          "paddings": 2,
           "heading": "",
           "heading_color": "",
           "heading_bd_color": "",
@@ -5535,36 +6403,16 @@
       "products-tabs": {
         "type": "products-tabs",
         "blocks": {
-          "1541735190638": {
+          "1585836851438": {
             "type": "ptab_collection",
+            "disabled": true,
             "settings": {
               "visible_on_mobile": true,
-              "image": "",
               "image_url": "",
               "image_width": "3",
               "image_position": "none",
-              "collection": "",
-              "ptab_heading": "Best Sellers",
-              "ptab_icon": "",
-              "ptab_img_width": "500",
-              "ptab_img_height": "500",
-              "ptab_rows": "1",
-              "ptab_items_per_row": "6",
-              "ptab_carousel": true,
-              "ptab_max": "8"
-            }
-          },
-          "1541735682164": {
-            "type": "ptab_collection",
-            "settings": {
-              "visible_on_mobile": true,
-              "image": "",
-              "image_url": "",
-              "image_width": "3",
-              "image_position": "none",
-              "collection": "",
-              "ptab_heading": "Latest Products",
-              "ptab_icon": "",
+              "collection": "on-sale",
+              "ptab_heading": "ON SALE",
               "ptab_img_width": "",
               "ptab_img_height": "",
               "ptab_rows": "1",
@@ -5573,17 +6421,15 @@
               "ptab_max": "8"
             }
           },
-          "1541735702730": {
+          "1585836889340": {
             "type": "ptab_collection",
             "settings": {
               "visible_on_mobile": true,
-              "image": "",
               "image_url": "",
               "image_width": "3",
               "image_position": "none",
-              "collection": "",
-              "ptab_heading": "Most Viewed",
-              "ptab_icon": "",
+              "collection": "new-in",
+              "ptab_heading": "NEW PRODUCTS",
               "ptab_img_width": "",
               "ptab_img_height": "",
               "ptab_rows": "1",
@@ -5594,9 +6440,8 @@
           }
         },
         "block_order": [
-          "1541735190638",
-          "1541735682164",
-          "1541735702730"
+          "1585836851438",
+          "1585836889340"
         ],
         "settings": {
           "visible_on_mobile": true,
@@ -5604,11 +6449,11 @@
           "tab_style": "normal",
           "tab_border": "default",
           "arrow_position": "beside",
-          "heading_color": "",
-          "heading_active_color": "",
-          "heading_active_border_color": "",
-          "heading_fontsize": 25,
-          "heading_fontweight": 400
+          "heading_color": "#7b7c7c",
+          "heading_active_color": "#7b7c7c",
+          "heading_active_border_color": "#7b7c7c",
+          "heading_fontsize": 16,
+          "heading_fontweight": 600
         }
       },
       "gallery-template": {
@@ -5783,7 +6628,8 @@
               "slide_padding_hori": 0,
               "slide_padding_from_vert": "top",
               "slide_padding_vert": 0,
-              "slide_sticker_enabled": false
+              "slide_sticker_enabled": false,
+              "slide_sticker": "shopify:\/\/shop_images\/Image3.png"
             }
           }
         },
@@ -5818,6 +6664,7 @@
           "slider_navhvr_bg_color": "",
           "slider_navhvr_border_color": "",
           "slider_absolute_bg_enabled": true,
+          "slider_absolute_bg": "shopify:\/\/shop_images\/Image3.png",
           "slider_afx_head": "fadeIn",
           "slider_afx_cap": "fadeIn",
           "slider_afx_cta": "fadeIn",
@@ -5830,20 +6677,19 @@
       },
       "1582598589324": {
         "type": "banner",
-        "disabled": true,
         "blocks": {
           "1582598589324-0": {
             "type": "banner",
             "settings": {
               "banner_width": 100,
-              "banner_mobile_width": 50,
+              "banner_mobile_width": 100,
               "banner_bg_color": "rgba(0,0,0,0)",
               "banner_shadow": false,
               "banner_tilt": false,
               "banner_rounded_edge": false,
               "banner_image_quality": "1000x",
               "banner_image_full_visible": false,
-              "banner_image_full_visible_mobile": false,
+              "banner_image_full_visible_mobile": true,
               "banner_height": 400,
               "banner_mobile_height": 100,
               "banner_head": "",
@@ -5871,7 +6717,7 @@
               "banner_linklist_width": 350,
               "banner_linklist_col": 2,
               "banner_cta_color": "#ffffff",
-              "banner_cta_bgcolor": "#cbd90e",
+              "banner_cta_bgcolor": "#6a8e91",
               "banner_cta_size": 13,
               "banner_cta_weight": 400,
               "banner_fx": false,
@@ -5904,6 +6750,7 @@
           "heading_fontsize": 25,
           "heading_fontweight": 400,
           "background_use": true,
+          "background_img": "shopify:\/\/shop_images\/Image3.png",
           "background_img_quality": "1920x",
           "background_color": "#e6e6e6"
         }
@@ -5928,12 +6775,12 @@
               "banner_shadow": false,
               "banner_tilt": false,
               "banner_rounded_edge": false,
-              "banner_image": "shopify:\/\/shop_images\/Untitled_design.png",
+              "banner_image": "shopify:\/\/shop_images\/Image4_bloc_desktop.png",
               "banner_image_quality": "1920x",
               "banner_image_full_visible": false,
               "banner_image_full_visible_mobile": false,
-              "banner_height": 420,
-              "banner_mobile_height": 220,
+              "banner_height": 630,
+              "banner_mobile_height": 330,
               "banner_head": "",
               "banner_cap": "",
               "banner_linklist": "",
@@ -5982,7 +6829,7 @@
             "settings": {
               "banner_width": 50,
               "banner_mobile_width": 100,
-              "banner_bg_color": "#bf0d3e",
+              "banner_bg_color": "#7771b1",
               "banner_shadow": false,
               "banner_tilt": false,
               "banner_rounded_edge": false,
@@ -5990,12 +6837,12 @@
               "banner_image_full_visible": false,
               "banner_image_full_visible_mobile": false,
               "banner_height": 250,
-              "banner_mobile_height": 230,
-              "banner_head": "<p style=\"font-size: 20px;\">Cocoonababy<\/p>",
-              "banner_cap": "<p style=\"line-height: 1.5; font-family: 'omnesmedium';\">The Cocoonababy® is the secret of <br> baby’s sleep and his balanced<br> development making the transition between <br>the womb and the outside world a gentle one.\n<\/p>",
+              "banner_mobile_height": 100,
+              "banner_head": "<p style=\"font-size: 50px;\">THE BABYCOOK: <br> 30 YEARS OF<br> INNOVATION<\/p><p><\/p>",
+              "banner_cap": "<p style=\"line-height: 1.5; font-family: 'omnesmedium';\">When the designer, Jean-Michel Chaudeurge, created <br>the cooking-mixing appliance, <br>the Babycook in 1989, it was a revolution in <br>the baby-care world. Since then, Béaba has <br>continued to innovate on design and functionality levels.<br> Thus in 2012, the Babycook® (previously called the Babycook Solo)<br> and the Babycook® Plus (previously called the <br>Babycook Duo), combining 2 bowls were launched.<br>\n\nToday the Babycook® Neo reflects Béaba's commitments: <br>healthy materials, and modern design.<br>Thanks to numerous accessories,<br> the Babycook has become a true ally in your kitchen for baby's<br> greatest pleasure.<\/p>",
               "banner_linklist": "",
-              "banner_cta": "Discover",
-              "banner_link": "shopify:\/\/collections\/cocoonababy-and-accessories",
+              "banner_cta": "Discover Babycook Products",
+              "banner_link": "shopify:\/\/collections\/babycook",
               "banner_text_pos": "text-pos-center",
               "banner_text_vpos": "text-vpos-middle",
               "banner_text_align": "text-align-center",
@@ -6015,8 +6862,8 @@
               "banner_linklist_weight": 400,
               "banner_linklist_width": 350,
               "banner_linklist_col": 2,
-              "banner_cta_color": "#c00042",
-              "banner_cta_bgcolor": "#ffffff",
+              "banner_cta_color": "#ffffff",
+              "banner_cta_bgcolor": "#6a8e91",
               "banner_cta_size": 13,
               "banner_cta_weight": 400,
               "banner_fx": false,
@@ -6043,7 +6890,7 @@
           "placement_fullwidth": true,
           "visible_on_mobile": true,
           "margin_top": 0,
-          "paddings": 0,
+          "paddings": 2,
           "heading": "",
           "heading_color": "",
           "heading_bd_color": "",
@@ -6057,7 +6904,7 @@
       "pina-instagram": {
         "type": "pina-instagram",
         "settings": {
-          "title": "Moments Cocoonababy",
+          "title": "Moments Beaba",
           "show_profile": false,
           "timeline": "own",
           "small": "2",
@@ -6094,6 +6941,7 @@
               "banner_shadow": false,
               "banner_tilt": false,
               "banner_rounded_edge": false,
+              "banner_image": "shopify:\/\/shop_images\/ncy_27d3e296-f1be-4908-9d24-91c90b9b10fc.png",
               "banner_image_quality": "1000x",
               "banner_image_full_visible": false,
               "banner_image_full_visible_mobile": false,
@@ -6151,6 +6999,7 @@
               "banner_shadow": false,
               "banner_tilt": false,
               "banner_rounded_edge": false,
+              "banner_image": "shopify:\/\/shop_images\/2w.png",
               "banner_image_quality": "1920x",
               "banner_image_full_visible": false,
               "banner_image_full_visible_mobile": false,
@@ -6208,6 +7057,7 @@
               "banner_shadow": false,
               "banner_tilt": false,
               "banner_rounded_edge": false,
+              "banner_image": "shopify:\/\/shop_images\/3w.png",
               "banner_image_quality": "1000x",
               "banner_image_full_visible": false,
               "banner_image_full_visible_mobile": false,
@@ -6277,6 +7127,14 @@
           "background_color": "#928dc1"
         }
       },
+      "1582686383967": {
+        "type": "empty-space",
+        "disabled": true,
+        "settings": {
+          "height": "40",
+          "bg_color": ""
+        }
+      },
       "delivery-bar": {
         "type": "delivery-bar",
         "settings": {
@@ -6304,7 +7162,7 @@
               "promotion_image_quality": "1920x",
               "promotion_height": 40,
               "promotion_mobile_height": 50,
-              "promotion_text": "Beaba Warranty",
+              "promotion_text": "Beaba Warrenty",
               "promotion_icon": "fa-check",
               "promotion_link": "",
               "promotion_color": "#5c5d5d",
@@ -6392,18 +7250,77 @@
               "promotion_mobile_borders_left": false,
               "promotion_mobile_borders_right": false
             }
+          },
+          "1583389435671": {
+            "type": "banner",
+            "settings": {
+              "banner_width": 100,
+              "banner_mobile_width": 50,
+              "banner_bg_color": "#ffc107",
+              "banner_shadow": false,
+              "banner_tilt": false,
+              "banner_rounded_edge": false,
+              "banner_image": "shopify:\/\/shop_images\/Newsletter.jpg",
+              "banner_image_quality": "1000x",
+              "banner_image_full_visible": false,
+              "banner_image_full_visible_mobile": false,
+              "banner_height": 250,
+              "banner_mobile_height": 100,
+              "banner_head": "Get our latest news and special sales",
+              "banner_cap": "and receive our exclusive tips and promotions",
+              "banner_linklist": "",
+              "banner_cta": "Register my email",
+              "banner_link": "shopify:\/\/collections\/all",
+              "banner_text_pos": "text-pos-right",
+              "banner_text_vpos": "text-vpos-middle",
+              "banner_text_align": "text-align-center",
+              "banner_side_padding_hori": 16,
+              "banner_side_padding_vert": 46,
+              "banner_head_color": "#5c5d5d",
+              "banner_head_size": 25,
+              "banner_head_weight": 700,
+              "banner_head_shadow": false,
+              "banner_cap_color": "#000000",
+              "banner_cap_size": 14,
+              "banner_cap_weight": 400,
+              "banner_cap_shadow": false,
+              "banner_linklist_color": "#000000",
+              "banner_linklist_color_hover": "#ffffff",
+              "banner_linklist_size": 13,
+              "banner_linklist_weight": 400,
+              "banner_linklist_width": 350,
+              "banner_linklist_col": 2,
+              "banner_cta_color": "#6a8e91",
+              "banner_cta_bgcolor": "#ffffff",
+              "banner_cta_size": 13,
+              "banner_cta_weight": 400,
+              "banner_fx": false,
+              "banner_fx_for": "0",
+              "banner_fx_type": "1",
+              "banner_borders": "0",
+              "banner_borders_top": false,
+              "banner_borders_bottom": false,
+              "banner_borders_left": false,
+              "banner_borders_right": false,
+              "banner_mobile_borders": "0",
+              "banner_mobile_borders_top": false,
+              "banner_mobile_borders_bottom": false,
+              "banner_mobile_borders_left": false,
+              "banner_mobile_borders_right": false
+            }
           }
         },
         "block_order": [
           "1583390206429",
           "1583390305764",
-          "1583390519022"
+          "1583390519022",
+          "1583389435671"
         ],
         "settings": {
           "placement_fullwidth": true,
           "visible_on_mobile": true,
           "margin_top": 0,
-          "paddings": 0,
+          "paddings": 2,
           "heading": "",
           "heading_color": "",
           "heading_bd_color": "",
@@ -6421,7 +7338,7 @@
           "1584655495654-0": {
             "type": "custom_html",
             "settings": {
-              "html_content": "<div class=\"marque_beaba_texte\">\n<img class=\"img-responsive img_texte hidden-sm-down lozad\" data=\"\" alt=\"Image3.png\" src=\"https:\/\/www.redcastle.fr\/img\/redcastle-marque.jpg\" data-loaded=\"true\">\n\n<div class=\"texte_specialiste\">\n<div class=\"bloc_specialiste\">\n<p>RED CASTLE, OUR COMMITMENT TO THE WELL-BEING OF CHILDREN<\/p>\n<p class=\"text_titre\"><\/p>\n<span>For over 25 years, RED CASTLE® is trusted for its technicality and practicality, combined with its timeless style. We simplified children's movement and provides them with comfort and elegance in all circumstances.<\/span> <br><br> <a class=\"btn_text\" href=\"https:\/\/cocoonababy1.myshopify.com\/pages\/about-us\"><font face=\"omneslight\"><size><strong>Discover the brand Red Castle <\/strong><\/size><\/font><\/a>\n<p><\/p>\n<div><\/div>\n<\/div>\n<\/div>\n\n<\/div>\n<style>\n\n.marque_beaba_texte {\n    background: rgba(214,212,231,1);\n    background: -moz-linear-gradient(left,rgba(214,212,231,1) 0%,rgba(214,212,231,1) 48%,rgba(255,255,255,1) 53%,rgba(255,255,255,1) 100%);\n    background: -webkit-gradient(left top,right top,color-stop(0%,rgba(214,212,231,1)),color-stop(48%,rgba(214,212,231,1)),color-stop(53%,rgba(255,255,255,1)),color-stop(100%,rgba(255,255,255,1)));\n    background: -webkit-linear-gradient(left,rgba(214,212,231,1) 0%,rgba(214,212,231,1) 48%,rgba(255,255,255,1) 53%,rgba(255,255,255,1) 100%);\n    background: -o-linear-gradient(left,rgba(214,212,231,1) 0%,rgba(214,212,231,1) 48%,rgba(255,255,255,1) 53%,rgba(255,255,255,1) 100%);\n    background: -ms-linear-gradient(left,rgba(214,212,231,1) 0%,rgba(214,212,231,1) 48%,rgba(255,255,255,1) 53%,rgba(255,255,255,1) 100%);\n    background: linear-gradient(to right,rgba(214,212,231,1) 0%,rgba(214,212,231,1) 48%,rgba(255,255,255,1) 53%,rgba(255,255,255,1) 100%);\n    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d6d4e7',endColorstr='#ffffff',GradientType=1);\n}\n.texte_specialiste {\n    max-width: 40%;\n    background: white;\n    padding: 60px;\n    position: relative;\n    display: block;\n    margin-left: auto;\n    margin-right: auto;\n    margin-top: -15%;\n}\n\n.bloc_specialiste p {\n    color: #c00042;\n    font-size: 54px;\n    text-transform: uppercase;\n    font-family: dk_lemon_yellow_sunregular;\n    line-height: 46px;\n}\n.bloc_specialiste span {\n    font-size: 16px;\n    font-family: Omneslight;\n    color: #6b6c6c;\n}\n.btn_text {\n    padding: 15px 30px;\n    background: #fff;\n    color: #c00042!important;\n    font-size: 16px;\n    border-radius: 25px;\n    font-family: Omnes-Regular;\nborder:2px solid #c00042;\n}\n.img_texte {\n    max-width: 100%;\n}\n@media (max-width: 480px) and (min-width: 320px){\n.marque_beaba_texte {\n    background: #d6d4e7!important;\n}}\n@media (max-width: 480px) and (min-width: 320px){\n.texte_specialiste {\n    padding: 19px;\n     max-width: 85%;\n}}\n@media (max-width: 480px) and (min-width: 320px){\n.bloc_specialiste p {\n\ntext-align: center;\nfont-size: 30px;\n}}\n\n@media (max-width: 480px) and (min-width: 320px){\n.btn_text {\n    display: block;\n    font-size: 13px;\n    padding: 9px 17px;\n    font-family: \nOmnesSemibold;\n    text-align: center;\nleft:0%;\n}}\n<\/style>"
+              "html_content": "<div class=\"marque_beaba_texte\">\n<img class=\"img-responsive img_texte hidden-sm-down lozad\" data-src=\"https:\/\/www.beaba.com\/img\/bebemobile.png\" alt=\"Image3.png\" src=\"https:\/\/www.beaba.com\/img\/bebemobile.png\" data-loaded=\"true\"> <img class=\"hidden-md-up\" data-src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0324\/7931\/4053\/files\/Newsletter_1920x_crop_center_2eb3056f-f948-4a32-8db0-0eddffd56e15_1000x_crop_center.jpg?v=1586177719\">\n\n\n<div class=\"texte_specialiste\">\n<div class=\"bloc_specialiste\">\n<p>BÉABA, THE SPECIALIST<\/p>\n<p class=\"text_titre\">OF CHILDCARE!<\/p>\n<span style=\"font-family:omnesmedium\">Since its creation in 1989, the French brand, BEABA, accompanies parents with innovating, easy-to-use, quality products for everyday life with baby. Thanks to its flagship product, the Babycook®, Béaba has become the reference brand in the baby-care sector, and today offers more than 200 references: mixing appliances, high chairs, bouncers, nursery bags, bottles, accessories...<\/span> <br><br> <a class=\"btn_text\" href=\"https:\/\/beaba-australia-1.myshopify.com\/pages\/about-us\">Discover the brand Béaba <\/a>\n<div><\/div>\n<\/div>\n<\/div>\n\n<\/div>\n<style>\n\n.marque_beaba_texte {\n    background: rgba(214,212,231,1);\n    background: -moz-linear-gradient(left,rgba(214,212,231,1) 0%,rgba(214,212,231,1) 48%,rgba(255,255,255,1) 53%,rgba(255,255,255,1) 100%);\n    background: -webkit-gradient(left top,right top,color-stop(0%,rgba(214,212,231,1)),color-stop(48%,rgba(214,212,231,1)),color-stop(53%,rgba(255,255,255,1)),color-stop(100%,rgba(255,255,255,1)));\n    background: -webkit-linear-gradient(left,rgba(214,212,231,1) 0%,rgba(214,212,231,1) 48%,rgba(255,255,255,1) 53%,rgba(255,255,255,1) 100%);\n    background: -o-linear-gradient(left,rgba(214,212,231,1) 0%,rgba(214,212,231,1) 48%,rgba(255,255,255,1) 53%,rgba(255,255,255,1) 100%);\n    background: -ms-linear-gradient(left,rgba(214,212,231,1) 0%,rgba(214,212,231,1) 48%,rgba(255,255,255,1) 53%,rgba(255,255,255,1) 100%);\n    background: linear-gradient(to right,rgba(214,212,231,1) 0%,rgba(214,212,231,1) 48%,rgba(255,255,255,1) 53%,rgba(255,255,255,1) 100%);\n    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d6d4e7',endColorstr='#ffffff',GradientType=1);\n}\n.texte_specialiste {\n    max-width: 40%;\n    background: white;\n    padding: 60px;\n    position: relative;\n    display: block;\n    margin-left: auto;\n    margin-right: auto;\n    margin-top: -15%;\n}\n\n.bloc_specialiste p {\n    color: #7771b1;\n    font-size: 54px;\n    text-transform: uppercase;\n    font-family: dk_lemon_yellow_sunregular;\n    line-height: 46px;\n}\n.bloc_specialiste span {\n    font-size: 16px;\n    font-family: Omnes-Regular;\n    color: #6b6c6c;\n}\n.btn_text {\n    padding: 15px 30px;\n    background: #6a8e91;\n    color: white!important;\n    font-size: 16px;\n    border-radius: 25px;\n    font-family: omnesmedium;\nposition:relative;\nleft:20%;\n}\n.img_texte {\n    max-width: 100%;\n}\n@media (max-width: 480px) and (min-width: 320px){\n.marque_beaba_texte {\n    background: #d6d4e7!important;\n}}\n@media (max-width: 480px) and (min-width: 320px){\n.texte_specialiste {\n    padding: 19px;\n     max-width: 85%;\n}}\n@media (max-width: 480px) and (min-width: 320px){\n.bloc_specialiste p {\n\ntext-align: center;\nfont-size: 30px;\n}}\n\n@media (max-width: 480px) and (min-width: 320px){\n.btn_text {\n    display: block;\n    font-size: 13px;\n    padding: 9px 17px;\n    font-family: \nOmnesSemibold;\n    text-align: center;\nleft:0%;\n}}\n@media (min-width: 768px) {\n\n.hidden-sm-down{\ndisplay:none;}}\n\n<\/style>"
             }
           }
         },
@@ -6435,19 +7352,6 @@
       },
       "advanced-grid-about": {
         "type": "advanced-grid-about",
-        "blocks": {
-          "1585288780254": {
-            "type": "html",
-            "settings": {
-              "column_belong": "1",
-              "ac_mobile": false,
-              "acm_text": "<div class=\"content_cms\">\n                                                \n                        <div class=\"time-line\">\n    <p class=\"title-time-line\">And this is our story<\/p>\n\n    <section class=\"cd-horizontal-timeline loaded\">\n\n        <div class=\"events-content\" style=\"height: 479px;\">\n            <ul>\n                <li data-date=\"01\/01\/1989\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">1989<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img1989.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">1989<\/p>\n                            <p>\n                                +Jean Louis Berchet, at the head and forefather of a toy company, created BÉABA® <br> <strong>+ Birth of our first baby, <\/strong>the BABYCOOK®.\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n                <li data-date=\"01\/01\/1992\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">1992<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img1992.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">1992<\/p>\n                            <p>\n                                <strong> Arrival of our second baby...<\/strong> The BIB'SECONDES because every second counts<\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n              \n                <li data-date=\"01\/01\/2003\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2003<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2003.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2003<\/p>\n                            <p>\n                                <strong>Our BABYCOOK® goes through adolescence: <\/strong> at 14 years old, it is modernised and completely changes its look!  <br> It becomes the Babycook® ORIGINAL\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n\n                <li data-date=\"01\/01\/2004\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2004<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2007.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2004<\/p>\n                            <p>\n                                <strong>NURSERY BAGS are launched,<\/strong>nursery bags that are full of surprises…\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\t\t\t\t\n\n            <li data-date=\"01\/01\/2005\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2005<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2006.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2005<\/p>\n                            <p>\n                                Opening of the Spanish subsidiary! <strong>Travel broadens the mind.<\/strong>\t\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n                <li data-date=\"01\/01\/2007\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2007<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2007.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2007<\/p>\n                            <p>\n                                <strong>Lancement de la bagagerie GENЀVE ,<\/strong> les sacs à langer qui ont plus d’un tour dans leurs sacs…\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\t\t\t\t\n\t\t\t\t   <li data-date=\"01\/01\/2008\" class=\"\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2008<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2005.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2008<\/p>\n                            <p>\n                                <strong>BÉABA® broadens its horizons:<\/strong> direction the USA!\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n                <li class=\"\" data-date=\"01\/01\/2009\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2009<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2009.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2009<\/p>\n                            <p>\n                                <strong>+ Opens a capital shop!<\/strong> BÉABA® occupies the Avenue de l'Opéra in Paris.<br> <strong>+ And a new baby arrives at BÉABA®:<\/strong> the UP & DOWN bouncer is created, innovation is combined with simplicity!\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n                <li data-date=\"01\/01\/2010\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2010<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2010.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2010<\/p>\n                            <p>\n                                <strong>Creation of the BIB' EXPRESSO®,<\/strong> in 30 seconds, it's ready!\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n                <li data-date=\"01\/01\/2011\" class=\"\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2011<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2011.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2011<\/p>\n                            <p>\n                                <strong>+ The family grows:<\/strong> acquisition of RED CASTLE®, one of the leaders in the manufacture of strollers.<br><strong>+ We learn English!<\/strong> Opening of a sales representative office in Great Britain\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n                <li data-date=\"01\/01\/2012\" class=\"\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2012<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2012.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2012<\/p>\n                          \n\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t The <strong>BABYCOOK® ORIGINAL becomes the older brother:<\/strong> the <strong>BABYCOOK® SOLO <\/strong> and its variant with two bowls, the Babycook® DUO is born!\n\t\t\t\t\t\t\t\t<\/p>\n\t\t\t\t\t\t\t\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n                <li data-date=\"01\/01\/2014\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2014<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2014.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2014<\/p>\n                            <p>\n                                <strong>Going east!<\/strong> Opening of the sales representative office in Hong Kong for the development of sales in China and Asia.\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n                <li data-date=\"01\/01\/2015\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2015<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2015.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2015<\/p>\n                            <p>\n                                <strong>+ Recognition for our BABYCOOK®!<\/strong> Our iconic product selected as \"best choice\" by French UFC Que Choisir.<br> <strong>+ All parents are invited:<\/strong> creation of the BAND OF PARENTS community.\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n                <li data-date=\"01\/01\/2017\" class=\"selected\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2017<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2017.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2017<\/p>\n                            <p>\n                                <strong>+ We go to see our neighbours:<\/strong> opening of the subsidiaries in Belgium and Germany.\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n                <li data-date=\"01\/01\/2018\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2018<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2018.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2018<\/p>\n                            <p>\n\t\t\t\t\t\t\t <strong>+ Family reunion!<\/strong> The BÉABA® and RED CASTLE® offices set up home together in Oyonnax <br><strong>...going up:<\/strong> with the UP & DOWN High Chair\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n\n                <li data-date=\"01\/01\/2019\">\n                    <div class=\"row row-time-line\">\n                        <p class=\"year-time-line hidden-sm-down\">2019<\/p>\n                        <div class=\"col-md-7 col-lg-6 img-time-line\">\n                            <img src=\"https:\/\/www.beaba.com\/modules\/timeline\/views\/img\/img2019.png\" alt=\"marque Béaba\">\n                        <\/div>\n                        <div class=\"col-md-5 col-lg-6 desc-histoire\">\n                            <p class=\"year-time-line hidden-md-up\">2019<\/p>\n                            <p>\n                                <strong>Last but not least, the arrival of the latest BABYCOOK® Neo:<\/strong> new modern design with refined lines, healthy materials for providing the best possible food for baby!\n                            <\/p>\n                        <\/div>\n                    <\/div>\n                <\/li>\n            <\/ul>\n        <\/div> <!-- .events-content -->\n\n        <div class=\"timeline\">\n            <div class=\"events-wrapper\">\n                <div class=\"events\" style=\"width: 3400px; transform: translateX(-771px);\">\n                    <ul>\n                        <li><a href=\"#0\" data-date=\"01\/01\/1989\" style=\"left: 200px;\" class=\"older-event\">1989<\/a><\/li>\n                        <li><a href=\"#0\" data-date=\"01\/01\/1992\" style=\"left: 300px;\" class=\"older-event\">1992<\/a><\/li>\n                        \n                        <li><a href=\"#0\" data-date=\"01\/01\/2003\" style=\"left: 400px;\" class=\"older-event\">2003<\/a><\/li>\n\t\t\t\t\t\t<li><a href=\"#0\" data-date=\"01\/01\/2004\" style=\"left: 500px;\" class=\"older-event\">2004<\/a><\/li>\n                        <li><a href=\"#0\" data-date=\"01\/01\/2005\" style=\"left: 600px;\" class=\"older-event\">2005<\/a><\/li>\n                       \n\t\t\t\t\t\t<li><a href=\"#0\" data-date=\"01\/01\/2008\" style=\"left: 700px;\" class=\"older-event\">2008<\/a><\/li>\n                        <li><a href=\"#0\" data-date=\"01\/01\/2009\" class=\"older-event\" style=\"left: 800px;\">2009<\/a><\/li>\n                        <li><a href=\"#0\" data-date=\"01\/01\/2010\" style=\"left: 900px;\" class=\"older-event\">2010<\/a><\/li>\n                        <li><a href=\"#0\" data-date=\"01\/01\/2011\" style=\"left: 1000px;\" class=\"older-event\">2011<\/a><\/li>\n                        <li><a href=\"#0\" data-date=\"01\/01\/2012\" style=\"left: 1100px;\" class=\"older-event\">2012<\/a><\/li>\n                        <li><a href=\"#0\" data-date=\"01\/01\/2014\" style=\"left: 1200px;\" class=\"older-event\">2014<\/a><\/li>\n                        <li><a href=\"#0\" data-date=\"01\/01\/2015\" style=\"left: 1300px;\" class=\"older-event\">2015<\/a><\/li>\n                        \n                        <li><a href=\"#0\" data-date=\"01\/01\/2017\" style=\"left: 1400px;\" class=\"selected\">2017<\/a><\/li>\n                        <li><a href=\"#0\" data-date=\"01\/01\/2018\" style=\"left: 1500px;\">2018<\/a><\/li>\n                        <li><a href=\"#0\" data-date=\"01\/01\/2019\" style=\"left: 1600px;\">2019<\/a><\/li>\n                    <\/ul>\n\n                    <span class=\"filling-line\" aria-hidden=\"true\" style=\"transform: scaleX(0.732668);\"><\/span>\n                <\/div> <!-- .events -->\n            <\/div> <!-- .events-wrapper -->\n\n            <ul class=\"cd-timeline-navigation\">\n                <li><a href=\"#0\" class=\"prev\">Prev<\/a><\/li>\n                <li><a href=\"#0\" class=\"next inactive\">Next<\/a><\/li>\n            <\/ul> <!-- .cd-timeline-navigation -->\n        <\/div> <!-- .timeline -->\n\n    <\/section>\n<\/div>\n\n\n\n                    \n                    <div class=\"scroll-top visible\">haut <br>de page<\/div>\n                                \n            <\/div>\n\n<style>\n#cms .content_cms {\n    padding: 20px;\n}\n#cms .time-line .title-time-line {\n    color: #919192;\n    font-family: 'Omnes-Semibold';\n    font-size: 16px;\n    letter-spacing: 2px;\n    text-align: center;\n    text-transform: uppercase;\n}\n.cd-horizontal-timeline.loaded {\n    opacity: 1;\n}\n.cd-horizontal-timeline {\n    opacity: 0;\n    -webkit-transition: opacity 0.2s;\n    -moz-transition: opacity 0.2s;\n    transition: opacity 0.2s;\n}\n.cd-horizontal-timeline .events-content {\n    position: relative;\n    width: 100%;\n    margin: 20px 0 0;\n    overflow: hidden;\n    -webkit-transition: height 0.4s;\n    -moz-transition: height 0.4s;\n    transition: height 0.4s;\n}\n#content.page-cms ul {\n    padding-left: 40px;}\n.cd-horizontal-timeline .events-content li {\n    list-style: none;\n    position: absolute;\n    z-index: 1;\n    width: 100%;\n    left: 0;\n    top: 0;\n    -webkit-transform: translateX(-100%);\n    -moz-transform: translateX(-100%);\n    -ms-transform: translateX(-100%);\n    -o-transform: translateX(-100%);\n    transform: translateX(-100%);\n    padding: 0;\n    opacity: 0;\n    -webkit-animation-duration: 0.4s;\n    -moz-animation-duration: 0.4s;\n    animation-duration: 0.4s;\n    -webkit-animation-timing-function: ease-in-out;\n    -moz-animation-timing-function: ease-in-out;\n    animation-timing-function: ease-in-out;\n}\n.cd-horizontal-timeline .events-content li.selected {\n    position: relative;\n    z-index: 2;\n    opacity: 1;\n    -webkit-transform: translateX(0);\n    -moz-transform: translateX(0);\n    -ms-transform: translateX(0);\n    -o-transform: translateX(0);\n    transform: translateX(0);\n}\n.cd-horizontal-timeline .events-content em, .cd-horizontal-timeline .events-content p {\n    line-height: 1.6;\n}\n.cd-horizontal-timeline .timeline {\n    position: relative;\n    height: 120px;\n    width: calc(100% + 40px);\n    margin: 0 auto;\n    margin-left: -20px;\n}\n\n.row-time-line .year-time-line {\n    display: block;\n    text-align: center;\n    font-family: 'Omnes-Semibold';\n    font-size: 102px;\n    color: #cbd90e;\n    line-height: 1;\n    margin-bottom: -100px;\n}\n.img-time-line {\n    background: url(..\/..\/..\/..\/modules\/timeline\/views\/img\/back_img_time_line.png) no-repeat;\n    background-position: 100%;\n    min-height: 406px!important;\n.cd-horizontal-timeline .events-wrapper {\n    position: relative;\n    height: 100%;\n    margin: 0 40px;\n    overflow: hidden;\n}\n\n<\/style>"
-            }
-          }
-        },
-        "block_order": [
-          "1585288780254"
-        ],
         "settings": {
           "ag_mobile": false,
           "ag_fullw": false,
@@ -6469,7 +7373,7 @@
           "ag_attach": "scroll",
           "ac_use_1": true,
           "ac_mobile_1": false,
-          "ac_clw_1": "12",
+          "ac_clw_1": "9",
           "ac_clw_1_adv_max_768": "0",
           "ac_clw_1_adv_min_768": "0",
           "ac_clw_1_adv_min_992": "0",
@@ -6497,10 +7401,17 @@
           "ac_clw_4_adv_min_4200": "0"
         }
       },
+      "empty-space": {
+        "type": "empty-space",
+        "settings": {
+          "height": "400",
+          "bg_color": "#7d3434"
+        }
+      },
       "footer-banner": {
         "type": "footer-banner",
         "blocks": {
-          "1586800345016": {
+          "1586443306159": {
             "type": "banner",
             "settings": {
               "banner_width": 100,
@@ -6518,17 +7429,17 @@
               "banner_cap": "and receive our exclusive tips and promotions",
               "banner_linklist": "",
               "banner_cta": "SUBSCRIBE",
-              "banner_link": "#mailmunch-pop-888169",
+              "banner_link": "#mailmunch-pop-885230",
               "banner_text_pos": "text-pos-right",
               "banner_text_vpos": "text-vpos-middle",
               "banner_text_align": "text-align-center",
-              "banner_side_padding_hori": 5,
+              "banner_side_padding_hori": 3,
               "banner_side_padding_vert": 5,
-              "banner_head_color": "#5a5c5c",
-              "banner_head_size": 30,
+              "banner_head_color": "#5c5d5d",
+              "banner_head_size": 34,
               "banner_head_weight": 700,
               "banner_head_shadow": false,
-              "banner_cap_color": "#5a5c5c",
+              "banner_cap_color": "#5c5d5d",
               "banner_cap_size": 14,
               "banner_cap_weight": 400,
               "banner_cap_shadow": false,
@@ -6538,9 +7449,9 @@
               "banner_linklist_weight": 400,
               "banner_linklist_width": 350,
               "banner_linklist_col": 2,
-              "banner_cta_color": "#c00032",
+              "banner_cta_color": "#6a8e91",
               "banner_cta_bgcolor": "#ffffff",
-              "banner_cta_size": 13,
+              "banner_cta_size": 15,
               "banner_cta_weight": 400,
               "banner_fx": false,
               "banner_fx_for": "0",
@@ -6557,12 +7468,12 @@
               "banner_mobile_borders_right": false
             }
           },
-          "1586800612793": {
+          "1586795319631": {
             "type": "banner",
             "settings": {
               "banner_width": 0,
               "banner_mobile_width": 100,
-              "banner_bg_color": "#eaecec",
+              "banner_bg_color": "#ebebec",
               "banner_shadow": false,
               "banner_tilt": false,
               "banner_rounded_edge": false,
@@ -6571,7 +7482,7 @@
               "banner_image_full_visible": false,
               "banner_image_full_visible_mobile": false,
               "banner_height": 250,
-              "banner_mobile_height": 190,
+              "banner_mobile_height": 180,
               "banner_head": "",
               "banner_cap": "",
               "banner_linklist": "",
@@ -6580,8 +7491,8 @@
               "banner_text_pos": "text-pos-center",
               "banner_text_vpos": "text-vpos-middle",
               "banner_text_align": "text-align-center",
-              "banner_side_padding_hori": 5,
-              "banner_side_padding_vert": 5,
+              "banner_side_padding_hori": 0,
+              "banner_side_padding_vert": 0,
               "banner_head_color": "#000000",
               "banner_head_size": 40,
               "banner_head_weight": 700,
@@ -6615,12 +7526,12 @@
               "banner_mobile_borders_right": false
             }
           },
-          "1586800474818": {
+          "1586794789897": {
             "type": "banner",
             "settings": {
               "banner_width": 0,
               "banner_mobile_width": 100,
-              "banner_bg_color": "#eaecec",
+              "banner_bg_color": "#ebebec",
               "banner_shadow": false,
               "banner_tilt": false,
               "banner_rounded_edge": false,
@@ -6628,23 +7539,23 @@
               "banner_image_full_visible": false,
               "banner_image_full_visible_mobile": false,
               "banner_height": 250,
-              "banner_mobile_height": 220,
-              "banner_head": "Get our latest<br> news and<br> special sales",
-              "banner_cap": "and receive our exclusive tips and promotions",
+              "banner_mobile_height": 200,
+              "banner_head": "Get our Latest <br>news and <br> special sales",
+              "banner_cap": "and receive our exclusive <br>\ntips and promotions.",
               "banner_linklist": "",
               "banner_cta": "SUBSCRIBE",
-              "banner_link": "#mailmunch-pop-888169",
+              "banner_link": "#mailmunch-pop-885230",
               "banner_text_pos": "text-pos-center",
               "banner_text_vpos": "text-vpos-middle",
               "banner_text_align": "text-align-center",
               "banner_side_padding_hori": 5,
-              "banner_side_padding_vert": 5,
+              "banner_side_padding_vert": 8,
               "banner_head_color": "#5a5c5c",
-              "banner_head_size": 40,
+              "banner_head_size": 44,
               "banner_head_weight": 700,
               "banner_head_shadow": false,
               "banner_cap_color": "#5a5c5c",
-              "banner_cap_size": 14,
+              "banner_cap_size": 18,
               "banner_cap_weight": 400,
               "banner_cap_shadow": false,
               "banner_linklist_color": "#000000",
@@ -6653,9 +7564,9 @@
               "banner_linklist_weight": 400,
               "banner_linklist_width": 350,
               "banner_linklist_col": 2,
-              "banner_cta_color": "#c00032",
+              "banner_cta_color": "#6a8e91",
               "banner_cta_bgcolor": "#ffffff",
-              "banner_cta_size": 13,
+              "banner_cta_size": 18,
               "banner_cta_weight": 400,
               "banner_fx": false,
               "banner_fx_for": "0",
@@ -6674,39 +7585,46 @@
           }
         },
         "block_order": [
-          "1586800345016",
-          "1586800612793",
-          "1586800474818"
+          "1586443306159",
+          "1586795319631",
+          "1586794789897"
         ],
         "settings": {
-          "placement_fullwidth": true,
+          "placement_fullwidth": false,
           "visible_on_mobile": true,
-          "margin_top": 25,
-          "paddings": 0,
+          "margin_top": 0,
+          "paddings": 2,
           "heading": "",
           "heading_color": "",
           "heading_bd_color": "",
           "heading_fontsize": 25,
           "heading_fontweight": 400,
           "background_use": true,
-          "background_img": "shopify:\/\/shop_images\/Untitled_design_2.png",
-          "background_img_quality": "1920x",
+          "background_img": "shopify:\/\/shop_images\/Newsletter_1920x_crop_center_2eb3056f-f948-4a32-8db0-0eddffd56e15.jpg",
+          "background_img_quality": "1000x",
           "background_color": "#e6e6e6"
+        }
+      },
+      "1586835700067": {
+        "type": "empty-space",
+        "settings": {
+          "height": "40",
+          "bg_color": ""
         }
       },
       "mobile-slideshow": {
         "type": "mobile-slideshow",
         "blocks": {
-          "194a56a5-4771-4023-bf3a-ac3eb9292a80": {
+          "f014d1de-b622-4940-a2da-ee0cbd7cb1e9": {
             "type": "image",
             "settings": {
               "slide_img_use": true,
-              "slide_img": "shopify:\/\/shop_images\/Red_Castle_Banners_1-03.png",
+              "slide_img": "shopify:\/\/shop_images\/Beaba_Thermometer_Web_banner_Sale.jpg",
               "slide_vid": "",
               "slide_head": "",
               "slide_capt": "",
               "slide_cta": "",
-              "slide_url": "shopify:\/\/collections\/big-flopsy",
+              "slide_url": "shopify:\/\/products\/beaba-infrared-thermometer",
               "slide_swap": true,
               "slide_cta_btw": false,
               "slide_cta_undrline": false,
@@ -6730,16 +7648,82 @@
               "slide_sticker_enabled": false
             }
           },
-          "06468ee5-c8cb-4790-9c10-1b493528e3fd": {
+          "e9b16c30-1717-4d04-8d70-4d82a0901224": {
             "type": "image",
             "settings": {
               "slide_img_use": true,
-              "slide_img": "shopify:\/\/shop_images\/Red_Castle_Banners_Vicki_Coord.jpg",
+              "slide_img": "shopify:\/\/shop_images\/beaba_high-chair_banner.jpg",
+              "slide_vid": "",
+              "slide_head": "",
+              "slide_capt": "",
+              "slide_cta": "Button",
+              "slide_url": "shopify:\/\/collections\/highchair",
+              "slide_swap": true,
+              "slide_cta_btw": false,
+              "slide_cta_undrline": false,
+              "slide_head_size": 40,
+              "slide_head_weight": 600,
+              "slide_head_color": "#000000",
+              "slide_head_bodyfont": false,
+              "slide_head_space": false,
+              "slide_head_decor": "0",
+              "slide_capt_size": 20,
+              "slide_capt_weight": 300,
+              "slide_capt_color": "#000000",
+              "slide_capt_decor": "0",
+              "slide_align_hori": "center",
+              "slide_align_vert": "middle",
+              "slide_align_content": "center",
+              "slide_padding_from_hori": "right",
+              "slide_padding_hori": 0,
+              "slide_padding_from_vert": "top",
+              "slide_padding_vert": 0,
+              "slide_sticker_enabled": false
+            }
+          },
+          "ee3930c6-5dae-4a10-b0d2-d487001c768a": {
+            "type": "image",
+            "settings": {
+              "slide_img_use": true,
+              "slide_img": "shopify:\/\/shop_images\/banniere-Milkeo-1480x720-GB_1be706d1-8fda-4cb6-85cd-bcea9dd6f865.jpg",
+              "slide_vid": "",
+              "slide_head": "",
+              "slide_capt": "",
+              "slide_cta": "Button",
+              "slide_url": "shopify:\/\/products\/milkeo-automatic-bottle-maker",
+              "slide_swap": true,
+              "slide_cta_btw": false,
+              "slide_cta_undrline": false,
+              "slide_head_size": 40,
+              "slide_head_weight": 600,
+              "slide_head_color": "#000000",
+              "slide_head_bodyfont": false,
+              "slide_head_space": false,
+              "slide_head_decor": "0",
+              "slide_capt_size": 20,
+              "slide_capt_weight": 300,
+              "slide_capt_color": "#000000",
+              "slide_capt_decor": "0",
+              "slide_align_hori": "center",
+              "slide_align_vert": "middle",
+              "slide_align_content": "center",
+              "slide_padding_from_hori": "right",
+              "slide_padding_hori": 0,
+              "slide_padding_from_vert": "top",
+              "slide_padding_vert": 0,
+              "slide_sticker_enabled": false
+            }
+          },
+          "2f71fce7-8896-48a1-9f76-8e9e9deef057": {
+            "type": "image",
+            "settings": {
+              "slide_img_use": true,
+              "slide_img": "shopify:\/\/shop_images\/Baby_Milk_Second_Social_Media_Post.jpg",
               "slide_vid": "",
               "slide_head": "",
               "slide_capt": "",
               "slide_cta": "",
-              "slide_url": "https:\/\/cocoonababy.com.au\/collections\/cocoonababy\/products\/cocoonababy-nest-vicky-coord",
+              "slide_url": "shopify:\/\/products\/beaba-baby-milk-bottle-warmer",
               "slide_swap": true,
               "slide_cta_btw": false,
               "slide_cta_undrline": false,
@@ -6765,8 +7749,10 @@
           }
         },
         "block_order": [
-          "194a56a5-4771-4023-bf3a-ac3eb9292a80",
-          "06468ee5-c8cb-4790-9c10-1b493528e3fd"
+          "f014d1de-b622-4940-a2da-ee0cbd7cb1e9",
+          "e9b16c30-1717-4d04-8d70-4d82a0901224",
+          "ee3930c6-5dae-4a10-b0d2-d487001c768a",
+          "2f71fce7-8896-48a1-9f76-8e9e9deef057"
         ],
         "settings": {
           "header_slideshow_enabled": true,
@@ -6798,6 +7784,61 @@
           "slider_dfx_cta": "fadeOut",
           "slider_dfx_sticker": "fadeOut"
         }
+      },
+      "1591162119714": {
+        "type": "new-slideshow",
+        "disabled": true,
+        "blocks": {
+          "1591162119714-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/App_Promotion_Banner_1.png",
+              "alignment": "center",
+              "title": "",
+              "heading_color": "#000000",
+              "heading_size": "40",
+              "subheading": "",
+              "subheading_color": "#000000",
+              "subheading_size": "12",
+              "button": "",
+              "link": ""
+            }
+          },
+          "1591162163604": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Milkeo_Preorder_Banner.jpg",
+              "alignment": "center",
+              "title": "",
+              "heading_color": "#000000",
+              "heading_size": "40",
+              "subheading": "",
+              "subheading_color": "#000000",
+              "subheading_size": "12",
+              "button": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1591162119714-0",
+          "1591162163604"
+        ],
+        "settings": {
+          "slideshow_speed": "5000",
+          "slideshow_transition": "false",
+          "navigation_color": "#ffffff",
+          "video_height": "500",
+          "video_height_tablet": "400",
+          "video_height_mobile": "300",
+          "auto_playvideo": true,
+          "stamp_img_svg": ""
+        }
+      },
+      "product-quickview-template": {
+        "type": "product-quickview-template",
+        "settings": {
+        }
       }
     },
     "content_for_index": [
@@ -6805,6 +7846,7 @@
       "1527253564785",
       "1527309380587",
       "1527309267479",
+      "1586835700067",
       "1527311177344",
       "1527311485425",
       "1527420275294",
@@ -6815,7 +7857,9 @@
       "1582088330595",
       "1582605130195",
       "pina-instagram",
-      "1582614624299"
+      "1582614624299",
+      "1582686383967",
+      "1591162119714"
     ]
   }
 }
