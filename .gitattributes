@@ -1,0 +1,2 @@
+dist/**/* merge=ours
+config/settings_data.json merge=ours
